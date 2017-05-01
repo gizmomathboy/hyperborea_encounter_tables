@@ -1,0 +1,1470 @@
+A:
+  Abbica's Mere: 
+    terrain:
+      - bluffs_hills
+      - desert_steppe
+      - forest
+      - grasslands_plains_scrublands
+      - swamp_marsh_wetlands
+      - watercourses_lakes_and_rivers
+    file: abbicas_mere
+  Aeries: 
+    terrain:
+      - bluffs_hills
+    file: aeries
+  Alus Mercury: 
+    terrain:
+      - bluffs_hills
+      - bluffs_hills_glaciated
+      - desert_sandy
+      - desert_steppe
+      - forest
+      - grasslands_plains_scrublands
+      - mountains
+      - mountains_glaciated
+      - swamp_marsh_wetlands
+      - tundra
+      - watercourse_lakes_rivers
+      - watercourse_sea
+      - city
+      - town_village
+    file: alus_mercury
+  Anlates Isles: 
+    terrain:
+      - bluffs_hills
+      - bluffs_hills_glaciated
+      - desert_sandy
+      - desert_steppe
+      - forest
+      - grasslands_plains_scrublands
+      - mountains
+      - mountains_glaciated
+      - swamp_marsh_wetlands
+      - tundra
+      - watercourse_lakes_rivers
+      - watercourse_sea
+      - city
+      - town_village
+    file: anlates_isles
+  Atlantica: 
+    terrain:
+      - bluffs_hills
+    file: atlantica
+B:
+  - Barrier Mountains:
+      terrain:
+      file: barrier_mountains
+  - Black Forest Inlet:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: black_forest_inlet
+  - Black River Yleil:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: black_river_yleil
+  - Black Waste:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: black_waste
+  - Brigand's Bay:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: brigands_bay
+  - Broken Coast:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: broken_coast
+  - Cape Calencia:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: cape_calencia
+C:
+  - City in the Clouds:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: city_in_the_clouds
+  - Crab Archipelago:
+      terrain:
+        - bluffs_hills
+        - grasslands_plains_scrublands
+        - mountains
+        - town_village
+        - watercourse_sea
+      file: crab_archipelago
+D:
+  - Dagon Bay:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: dagon_bay
+  - Death Valley:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: death_valley
+  - Diamond Desert:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: diamond_desert
+  - Dunwich:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: dunwich
+E:
+  - Erikssgard:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: erikssgard
+  - Esquimaux Bay:
+      terrain:
+        - bluffs_hills
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - watercourse_sea
+        - town_village
+      file: esquimaux_bay
+F:
+  - Fazzuum:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: fazzuum
+  - Fidib:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: fidib
+  - Fields of Vol:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: fields_of_vol
+  - Floating Island of Paradoxon:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: floating_island_of_paradoxon
+G:
+  - Gal City:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: gal_city
+  - Gal Hills:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: gal_hills
+  - Gibbering Fields:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: gibbering_fields
+  - Great Obelisk:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: great_obelisk
+H:
+  - Hyperborean Sea:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: hyperborean_sea
+I:
+  - Ice Lake:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: ice_lake
+  - Islands of the Ape-Men:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: islands_of_the_ape_men
+  - Isle of Ghul:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: isle_of_ghul
+  - Isles of Thur:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: isles_of_thur
+  - IX:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: ix
+K:
+  - Khromarium:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: khromarium
+  - Kimmerian Steppe:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: kimmerian_steppe
+  - Kitasion Archipelago:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: kitasion_archipelago
+  - Kor:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: kor
+  - Krimmea:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: krimmea
+L:
+  - Lake Nova:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: lake_nova
+  - Larchmere Yys:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: larchmere_yys
+  - Leng Plateau:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: leng_plateau
+  - Lizard Coast:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: lizard_coast
+  - Lug Wasteland:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: lug_wasteland
+M:
+  - Minotaurios:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: minotaurios
+  - Mount Forptycle:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: mount_forptycle
+  - Mount Vhuurmithadon:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: mount_vhuurmithadon
+  - Mount Ymir:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: mount_ymir
+  - Mu Minor:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: mu_minor
+N:
+  - Narath and Tarath:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: narath_and_tarath
+  - New Amazonia:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: new_amazonia
+  - New Pictland:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: new_pictland
+  - New Vinland:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: new_vinland
+  - Nod's Chain:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: mods_chain
+O:
+  - Onja Cot:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: onja_cot
+  - Orcust:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: orcust
+P:
+  - Pandoros:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: pandoros
+  - Plain of Leng:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: plain_o_leng
+  - Port Greely:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: port_greely
+  - Port Zangerios:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: port_zangerios
+  - Ptarmigan Rock:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: ptarmigan_rock
+R:
+  - Red Desert:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: red_desert
+  - River Leng:
+      terrain:
+        - watercourse_lakes_rivers
+      file: river_leng
+  - River Okeanos:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: river_okeanos
+  - River Omo:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: river_omo
+  - River Vol:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: river_vol
+  - River Yys:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: river_yys
+S:
+  - Savage Boreal Coast:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: savage_boreal_coast
+  - Scythium:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: scythium
+  - Sharath:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: sharath
+  - Skarag Coast:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: skarag_coast
+  - Spiral Mountain Array:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: spiral_mountain_array
+  - Stonebrook:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: stonebrook
+  - Striped Gulf:
+      terrain:
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - town_village
+      file: striped_gulf
+  - Swampgate:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: swampgate
+T:
+  - Thaumagorga's Teeth:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: thaumagorgas_teeth
+  - Thorgunna's Island:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: thorgunnas_island
+  - Tinsaar:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: tinsaar
+  - Trog Inlet:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: trog_inlet
+  - Trogos:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: trogos
+U:
+  - Ullr's Island:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: ullrs_island
+V:
+  - Valley of Mists:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: valley_of_mists
+  - Vikland:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: vikland
+W:
+  - Wold Phellora:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: wold_phellora
+X:
+  - Xenadon:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: xenadon
+  - Xin:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: xin
+Y:
+  - Yithorium:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: yithorium
+  - Ythaqqa Plateau:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: ythaqqa_plateau
+Z:
+  - Zakath Desert:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: zakath_desert
+  - Zangerios Islands:
+      terrain:
+        - bluffs_hills
+        - bluffs_hills_glaciated
+        - desert_sandy
+        - desert_steppe
+        - forest
+        - grasslands_plains_scrublands
+        - mountains
+        - mountains_glaciated
+        - swamp_marsh_wetlands
+        - tundra
+        - watercourse_lakes_rivers
+        - watercourse_sea
+        - city
+        - town_village
+      file: zangerios_islands
