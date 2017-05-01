@@ -90,20 +90,12 @@ B:
       file: black_river_yleil
   - Black Waste:
       terrain:
-        - bluffs_hills
-        - bluffs_hills_glaciated
         - desert_sandy
         - desert_steppe
         - forest
         - grasslands_plains_scrublands
         - mountains
-        - mountains_glaciated
-        - swamp_marsh_wetlands
-        - tundra
         - watercourse_lakes_rivers
-        - watercourse_sea
-        - city
-        - town_village
       file: black_waste
   - Brigand's Bay:
       terrain:
