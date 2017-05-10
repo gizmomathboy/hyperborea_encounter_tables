@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# crab_archipelago
+- dice: 3d6
+  results:
+    3: 3d6x10 crab-men
+    4: Hunting Party (crab-kin)
+    5: NATURAL
+    6: War Party (crab-kin)
+    7: GIANT
+    8: ANIMAL
+    9: Hunting Party (crab-kin)
+    10: ANIMAL
+    11: NATURAL
+    12: ANIMAL
+    13: NATURAL
+    14: Hunting Party (crab-kin)
+    15: GIANT
+    16: 1d6 crab-men
+    17: MEN
+    18: CELESTIAL

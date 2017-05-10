@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# black_waste
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: ALIEN
+    5: NATURAL
+    6: MYTHICAL
+    7: ANIMAL
+    8: UNDEAD
+    9: GIANT
+    10: NATURAL
+    11: ANIMAL
+    12: PREHISTORIC
+    13: 1 banshee (night only)
+    14: NATURAL
+    15: GIANT
+    16: NATURAL
+    17: ALIEN
+    18: 1 lich

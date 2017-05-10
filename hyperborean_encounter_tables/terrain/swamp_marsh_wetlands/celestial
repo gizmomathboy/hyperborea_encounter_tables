@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/swamp_marsh_wetlands
+# celestial
+- dice: 3d6
+  results:
+    3: Voice of Doom
+    4: Weird Vibrations
+    5: Planetary Alignment
+    6: Shining Mist
+    7: Fortean Fall
+    8: Meteor Shower
+    9: Stellar Conjunction
+    10: Aurora
+    11: Falling Star
+    12: Lights in the Sky
+    13: Mocking Star
+    14: Mad Whispers
+    15: Lunar Eclipse
+    16: Red Fog
+    17: Comet
+    18: The Stars Are Right

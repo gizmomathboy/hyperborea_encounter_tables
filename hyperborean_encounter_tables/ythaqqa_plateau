@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# ythaqqa_plateau
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: ALIEN
+    5: NATURAL
+    6: GIANT
+    7: 1d6 abominable snow-men
+    8: NATURAL
+    9: ANIMAL
+    10: NATURAL
+    11: ANIMAL
+    12: NATURAL
+    13: 1d2 albino apes (night only)
+    14: ALIEN
+    15: 1d4+6 albino apes (night only)
+    16: ANIMAL
+    17: 6d6 abominable snow-men
+    18: CELESTIAL

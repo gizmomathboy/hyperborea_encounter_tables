@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# hyperborean_sea
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: 1 giant octopus
+    5: UNDEAD
+    6: 1 giant crocodile
+    7: MEN
+    8: 1d4 giant crabs
+    9: PREHISTORIC
+    10: ANIMAL
+    11: NATURAL
+    12: GIANT
+    13: 2d6 great white sharks
+    14: 1d4 killer whales
+    15: MYTHICAL
+    16: 1 sea serpent
+    17: 1 giant squid
+    18: ALIEN

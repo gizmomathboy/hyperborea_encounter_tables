@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# scythium
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: Necromancer
+    5: Light Patrol (Ixians)
+    6: 2d4 rattlesnakes
+    7: Light Patrol (Ixians)
+    8: NATURAL
+    9: Slaves
+    10: ANIMAL
+    11: NATURAL
+    12: Light Patrol (Ixians)
+    13: GIANT
+    14: 3d10 vipers
+    15: Slaves
+    16: 1d6 cobras
+    17: 2d4 asps
+    18: UNDEAD

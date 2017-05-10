@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/desert_sandy
+# natural
+- dice: 3d6
+  results:
+    3: Ball Lightning
+    4: Flash Flood
+    5: Oasis
+    6: Sandstorm
+    7: Heat Wave
+    8: Insect Swarm
+    9: Fever
+    10: Lost
+    11: Vermin
+    12: Mirage
+    13: Heatstroke
+    14: Sand Pit
+    15: Dust Devil
+    16: Heat Lightning
+    17: Cloudburst
+    18: Earthquake

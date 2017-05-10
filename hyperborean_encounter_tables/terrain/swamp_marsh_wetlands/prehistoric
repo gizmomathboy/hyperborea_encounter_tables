@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/swamp_marsh_wetlands
+# prehistoric
+- dice: 3d6
+  results:
+    3: 1 sabre-tooth tiger superior
+    4: 1 ground sloth
+    5: 1 sabre-tooth tiger
+    6: 1d6+6 dire wolves
+    7: 1d10x10 giant bats (night only)
+    8: 1 pterodactyl
+    9: 1d6 giant weasels (night only)
+    10: 1d6 cave-men
+    11: 1d6x10 lizard-men
+    12: 3d6 giant rats
+    13: 1d6 giant ferrets
+    14: 1d2 giant elk
+    15: 1 woolly mammoth
+    16: 2d6 giant hyaenas
+    17: 1 archaeopteryx
+    18: 1 woolly mammoth superior

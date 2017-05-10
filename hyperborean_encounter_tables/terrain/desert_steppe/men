@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/desert_steppe
+# men
+- dice: 3d6
+  results:
+    3: Paladin
+    4: Shaman
+    5: Merchants
+    6: Pilgrims
+    7: Berserker
+    8: Cataphract
+    9: Fighter
+    10: Scout
+    11: 2d6 bandits
+    12: Barbarian
+    13: 1d6 wild berserkers
+    14: Ranger
+    15: NPC Party
+    16: Cleric
+    17: Witch
+    18: 1 werewolf (human form)

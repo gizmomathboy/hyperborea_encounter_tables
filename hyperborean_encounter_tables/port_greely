@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# port_greely
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: UNDEAD
+    5: Fog Bank
+    6: Light Patrol (degenerates)
+    7: GIANT
+    8: 2d6 fish-men
+    9: NATURAL
+    10: Light Patrol (degenerates)
+    11: NATURAL
+    12: ANIMAL
+    13: Light Patrol (degenerates)
+    14: ANIMAL
+    15: Fog Bank
+    16: 2d6 fish-men
+    17: ALIEN
+    18: 2d4x10 fish-men

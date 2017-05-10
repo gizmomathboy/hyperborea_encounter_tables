@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# gibbering_fields
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: Violet Lotus
+    5: 3d10 giant hyaenas
+    6: 1d4 sabre-tooth tigers
+    7: PREHISTORIC
+    8: 1d6+6 woolly mammoths
+    9: 4d6 aurochs
+    10: NATURAL
+    11: ANIMAL
+    12: 1d6 hyaena-men
+    13: Geyser
+    14: 1d6+6 dire wolves
+    15: 6d6 hyaena-men
+    16: UNDEAD
+    17: White-Speckled Blue Lotus
+    18: 2d4 vampires (incorporeal, night only)

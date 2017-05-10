@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# river_leng
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: UNDEAD
+    5: PREHISTORIC
+    6: ALIEN
+    7: GIANT
+    8: Hunting Party (Esquimaux)
+    9: NATURAL
+    10: ANIMAL
+    11: NATURAL
+    12: PREHISTORIC
+    13: ANIMAL
+    14: Hunting Party (Esquimaux)
+    15: ANIMAL
+    16: War Party (Esquimaux)
+    17: MEN
+    18: ALIEN

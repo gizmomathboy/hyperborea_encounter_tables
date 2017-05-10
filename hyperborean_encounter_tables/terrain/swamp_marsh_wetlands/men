@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/swamp_marsh_wetlands
+# men
+- dice: 3d6
+  results:
+    3: Warlock
+    4: Pilgrims
+    5: Cleric
+    6: NPC Party
+    7: Thief
+    8: Druid
+    9: Barbarian
+    10: Scout
+    11: 1d10x10 bandits
+    12: Fighter
+    13: Witch
+    14: Ranger
+    15: Assassin
+    16: Hermit
+    17: Necromancer
+    18: 2d4 werewolves (human form)

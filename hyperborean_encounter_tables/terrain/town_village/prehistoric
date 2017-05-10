@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/town_village
+# prehistoric
+- dice: 3d6
+  results:
+    3: 1 snake-man (level 1d12 necromancer)
+    4: 1d4+1 giant crab spiders
+    5: 1d6 giant bees
+    6: 3d4 bird-men
+    7: 1 pterodactyl
+    8: 1 giant weasel (night only)
+    9: 1 woolly mammoth (domesticated)
+    10: 1d6 cave-men
+    11: 1 aurochs (domesticated)
+    12: 3d6 giant rats
+    13: 1d6 giant ferrets
+    14: 3d4 giant black centipedes
+    15: 2d4 giant pink centipedes
+    16: 1d10 giant bats (night only)
+    17: 1 archaeopteryx
+    18: 1d2 giant stag beetles

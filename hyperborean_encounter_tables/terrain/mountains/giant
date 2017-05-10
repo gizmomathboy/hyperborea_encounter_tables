@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/mountains
+# giant
+- dice: 3d6
+  results:
+    3: 2d6 fomorians
+    4: 1 cyclops
+    5: 1d4+1 giant crab spiders
+    6: 1d10x10 giant bats (night only)
+    7: 1d6 giant ticks
+    8: 1 giant chameleon
+    9: 1d6 mountain apes
+    10: 1 giant weasel (night only)
+    11: 1d6 giant toads
+    12: 1d6 giant ferrets
+    13: 3d6 giant ants
+    14: 1d6 giant bees
+    15: 3d6 giant eagles
+    16: 1d4 cave bears
+    17: 1d6 giant wolf spiders
+    18: 2d10 fire giants (volcanic only)

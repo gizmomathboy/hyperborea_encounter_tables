@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# fazzuum
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: 1 giant asp
+    5: Necromancer
+    6: ANIMAL
+    7: MEN
+    8: Slaves
+    9: Light Patrol (Ixians)
+    10: NATURAL
+    11: MEN
+    12: ANIMAL
+    13: MEN
+    14: Light Patrol (Ixians)
+    15: NATURAL
+    16: Priest
+    17: 1 giant cobra
+    18: UNDEAD

@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# zangerios_islands
+- dice: 3d6
+  results:
+    3: ALIEN
+    4: MEN
+    5: UNDEAD
+    6: NATURAL
+    7: MEN
+    8: ANIMAL
+    9: Hunting Party (city-dwellers)
+    10: NATURAL
+    11: ANIMAL
+    12: NATURAL
+    13: MEN
+    14: GIANT
+    15: ANIMAL
+    16: MEN
+    17: UNDEAD
+    18: CELESTIAL

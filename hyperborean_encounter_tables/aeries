@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# aeries
+- dice: 3d6
+  results:
+    3: Hermit
+    4: 1d6 archaeopteryges
+    5: 1d2 gorgons
+    6: 1d2 manticores
+    7: 2d6 griffins
+    8: 2d4 minotaurs
+    9: 3d6 stirges
+    10: ANIMAL
+    11: NATURAL
+    12: 1d6 harpies
+    13: 1d6 wyverns
+    14: 2d6 hippogriffs
+    15: 1 chimaera
+    16: 1d6 pegasuses
+    17: 1 greater gorgon
+    18: CELESTIAL

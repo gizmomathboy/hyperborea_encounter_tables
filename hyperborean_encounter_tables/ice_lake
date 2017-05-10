@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# ice_lake
+- dice: 3d6
+  results:
+    3: ALIEN
+    4: UNDEAD
+    5: War Party (Esquimaux)
+    6: PREHISTORIC
+    7: Hunting Party (Esquimaux)
+    8: NATURAL
+    9: ANIMAL
+    10: NATURAL
+    11: ANIMAL
+    12: Hunting Party (Esquimaux)
+    13: NATURAL
+    14: GIANT
+    15: ANIMAL
+    16: NATURAL
+    17: MYTHICAL
+    18: CELESTIAL

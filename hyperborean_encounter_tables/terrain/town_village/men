@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/town_village
+# men
+- dice: 3d6
+  results:
+    3: 2d4 werewolves (human form)
+    4: Witch
+    5: Assassin
+    6: NPC Party
+    7: Harlots
+    8: Beggars
+    9: Scout
+    10: Fighter
+    11: Drunks
+    12: Thief
+    13: 2d6 bandits (thugs)
+    14: Barbarian
+    15: Druid/Priest/Shaman (as appropriate)
+    16: Ranger
+    17: Magician
+    18: Bard

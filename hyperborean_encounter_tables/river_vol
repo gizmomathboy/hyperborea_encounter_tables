@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# river_vol
+- dice: 3d6
+  results:
+    3: UNDEAD
+    4: PREHISTORIC
+    5: Hunting Party (Kimmeri-Kelts)
+    6: Light Cavalry (Kimmerians)
+    7: NATURAL
+    8: Light Patrol (ape-men of Kor)
+    9: ANIMAL
+    10: NATURAL
+    11: ANIMAL
+    12: Hunting Party (Kimmeri-Kelts)
+    13: PREHISTORIC
+    14: Light Cavalry (Kimmeri-Kelts)
+    15: Light Patrol (ape-men of Kor)
+    16: GIANT
+    17: 6d6 ape-men
+    18: CELESTIAL

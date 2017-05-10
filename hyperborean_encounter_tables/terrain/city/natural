@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/city
+# natural
+- dice: 3d6
+  results:
+    3: Earthquake
+    4: Hurricane (coastal only)
+    5: Blizzard (non-desert only)
+    6: Plague
+    7: Snowstorm (non-desert only)
+    8: Sleet Storm (non-desert only)
+    9: Vermin
+    10: Fever
+    11: Fog Bank (non-desert only)
+    12: Cloudburst (non-desert only)
+    13: Thunderstorm (non-desert only)
+    14: Sandstorm (desert only)
+    15: Heat Wave (desert only)
+    16: Hailstorm (non-desert only)
+    17: Poison Gas
+    18: Heavy Blizzard (non-desert only)

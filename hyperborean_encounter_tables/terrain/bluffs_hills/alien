@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/bluffs_hills
+# alien
+- dice: 3d6
+  results:
+    3: 1 colour out of space (night only)
+    4: 1 sabre-tooth tiger superior
+    5: 1 tree-man
+    6: 2d10x10 mi-go
+    7: 1d4 gargoyles
+    8: 1 owl bear
+    9: 3d4 bird-men
+    10: 1d6 hyaena-men
+    11: 1d6 orcs
+    12: 1d4 rust monsters
+    13: 1d6 night-gaunts
+    14: 1d6 abominable snow-men
+    15: 1d3 spore-men
+    16: 1d6 giant phase spiders
+    17: 1 swine daemon
+    18: 1 albino ape superior (night only)

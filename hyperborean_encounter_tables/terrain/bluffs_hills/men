@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/bluffs_hills
+# men
+- dice: 3d6
+  results:
+    3: 1 werewolf (human form)
+    4: Pilgrims
+    5: Druid
+    6: Witch
+    7: Prospector
+    8: 4d10 wild berserkers
+    9: Fighter
+    10: Scout
+    11: 1d10x10 bandits
+    12: Ranger
+    13: Barbarian
+    14: Berserker
+    15: Shaman
+    16: NPC Party
+    17: Hermit
+    18: Bard

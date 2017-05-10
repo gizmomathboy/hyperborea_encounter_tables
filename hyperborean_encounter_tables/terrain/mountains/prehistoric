@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/mountains
+# prehistoric
+- dice: 3d6
+  results:
+    3: 1d6 giant ticks
+    4: 1d6 archaeopteryges
+    5: 1d6 giant toads
+    6: 1d10x10 giant bats (night only)
+    7: 1d6 giant ferrets
+    8: 1 giant chameleon
+    9: 1 giant weasel (night only)
+    10: 1d6 cave-men
+    11: 1d6 ape-men
+    12: 1d6 mountain apes
+    13: 5d6 vhuurmis
+    14: 1d6 pterodactyls (volcanic only)
+    15: 3d6 giant eagles
+    16: 1d2 albino apes (night only)
+    17: 1d6 abominable snow-men
+    18: 1d4 cave bears

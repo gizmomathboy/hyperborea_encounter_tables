@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/desert_steppe
+# animal
+- dice: 3d6
+  results:
+    3: 6d4 lions
+    4: 1 brown bear
+    5: 1d2 wolverines
+    6: 1 viper
+    7: 1d6 boars
+    8: 1d12+6 wolves
+    9: 4d6 aurochs
+    10: 5d6 reindeer
+    11: 5d6 wild horses
+    12: 2d10x10 musk oxen
+    13: 5d6 dromedary camels
+    14: 1d100 bats (night only)
+    15: 1d6 falcons
+    16: 1 black bear
+    17: 5d10 hyaenas
+    18: 1d4 tigers

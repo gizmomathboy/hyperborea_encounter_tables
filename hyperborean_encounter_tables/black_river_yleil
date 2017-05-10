@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# black_river_yleil
+- dice: 3d6
+  results:
+    3: 1 lich
+    4: ALIEN
+    5: MYTHICAL
+    6: 2d8 ghouls
+    7: PREHISTORIC
+    8: 1d6 zombies
+    9: 2d4 skeletons
+    10: ANIMAL
+    11: NATURAL
+    12: GIANT
+    13: 3d10 skeletons
+    14: 1d6 ghouls
+    15: 4d6 zombies
+    16: 1d4 ghasts
+    17: 1d10 ghosts (night only)
+    18: CELESTIAL

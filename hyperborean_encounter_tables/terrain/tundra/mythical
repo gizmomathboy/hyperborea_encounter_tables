@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/tundra
+# mythical
+- dice: 3d6
+  results:
+    3: 1d3 daemons (class 1d3)
+    4: 1d4 ice salamanders
+    5: 1d2 minotaur superiors
+    6: 1d4 trolls
+    7: 6d6 abominable snow-men
+    8: 1 giant python (white-furred)
+    9: 1 minotaur
+    10: 1 giant weasel (evil, night only)
+    11: 1d6 giant toads (white)
+    12: 1 mountain ape
+    13: 1d4+6 albino apes (night only)
+    14: 1d2 giant wolverines
+    15: 1 winter wolf
+    16: 3d6 men of Leng
+    17: 1 succubus
+    18: 1d2 frost giants

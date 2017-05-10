@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/mountains_glaciated
+# alien
+- dice: 3d6
+  results:
+    3: 1d6 fire salamanders (volcanic only)
+    4: 1 shoggoth
+    5: 1d8 elder things
+    6: 3d6 men of Leng
+    7: 6d6 abominable snow-men
+    8: 1d4 gargoyles
+    9: 1 gibbering mouther
+    10: 2d6 vhuurmis
+    11: 1d6 hyaena-men
+    12: 1d3 spore-men
+    13: 1 tentacular horror
+    14: 2d4 hell hounds (volcanic only)
+    15: 1 nightmare (volcanic only)
+    16: 1 albino ape superior (night only)
+    17: 1d4 ice salamanders
+    18: 1d4+1 Great Race

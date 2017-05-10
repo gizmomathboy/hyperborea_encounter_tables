@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# narath_and_tarath
+- dice: 3d6
+  results:
+    3: 6d6 cave-men
+    4: Shaman (level 1d6 cave-man)
+    5: PREHISTORIC
+    6: NATURAL
+    7: 1d6 cave-men
+    8: GIANT
+    9: 1d6 cave-men
+    10: NATURAL
+    11: ANIMAL
+    12: PREHISTORIC
+    13: 1d6 cave-men
+    14: PREHISTORIC
+    15: NATURAL
+    16: GIANT
+    17: 6d6 cave-men
+    18: CELESTIAL

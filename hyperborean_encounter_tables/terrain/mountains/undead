@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/mountains
+# undead
+- dice: 3d6
+  results:
+    3: 1 lich
+    4: 1 ghost (night only)
+    5: 1d6 wights (night only)
+    6: 1d4 ghasts
+    7: 1d6 large skeletons
+    8: 1d6 ghouls
+    9: 1d6 medium animal skeletons
+    10: 2d4 skeletons
+    11: 1d6 small animal skeletons
+    12: 1d6 zombies
+    13: 1 large animal skeleton
+    14: 1 shadow (night only)
+    15: 1d4 giant skeletons
+    16: 1d4 wraiths (night only)
+    17: 1 spectre (night only)
+    18: 1 vampire (night only)

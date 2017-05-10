@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# mount_ymir
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: 1d8 elder things
+    5: NATURAL
+    6: MYTHICAL
+    7: 1d2 frost giants
+    8: PREHISTORIC
+    9: ANIMAL
+    10: NATURAL
+    11: ANIMAL
+    12: NATURAL
+    13: GIANT
+    14: ANIMAL
+    15: 1d2 frost giants
+    16: ANIMAL
+    17: 2d10 frost giants
+    18: CELESTIAL

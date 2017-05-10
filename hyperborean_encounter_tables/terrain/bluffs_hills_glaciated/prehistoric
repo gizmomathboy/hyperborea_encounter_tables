@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/bluffs_hills_glaciated
+# prehistoric
+- dice: 3d6
+  results:
+    3: 1 woolly mammoth superior
+    4: 1 ground sloth
+    5: 1 woolly rhinoceros
+    6: 1 giant weasel (night only)
+    7: 1d6+6 woolly mammoths
+    8: 1d10x10 giant bats (night only)
+    9: 4d6 aurochs
+    10: 6d6 cave-men
+    11: 1d6 ape-men
+    12: 1d6 mountain apes
+    13: 1d6 giant ferrets
+    14: 1d4+6 albino apes (night only)
+    15: 1d2 giant wolverines
+    16: 1d6 dire wolves
+    17: 1 sabre-tooth tiger
+    18: 1d4 cave bears

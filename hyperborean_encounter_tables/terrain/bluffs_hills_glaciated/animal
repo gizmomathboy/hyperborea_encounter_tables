@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/bluffs_hills_glaciated
+# animal
+- dice: 3d6
+  results:
+    3: 1 woolly rhinoceros
+    4: 1d6 dire wolves
+    5: 1 tiger
+    6: 1d2 wolverines
+    7: 2d4 mountain lions
+    8: 1 black bear
+    9: 1d6 boars
+    10: 2d10x10 musk oxen
+    11: 5d6 reindeer
+    12: 4d6 aurochs
+    13: 2d4 wolves
+    14: 1d6+6 woolly mammoths
+    15: 1 brown bear
+    16: 1d4 polar bears
+    17: 1 sabre-tooth tiger
+    18: 1d6 lions

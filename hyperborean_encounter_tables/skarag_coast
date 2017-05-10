@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# skarag_coast
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: UNDEAD
+    5: GIANT
+    6: 1d8x10 orcs
+    7: 1d6 cave-men
+    8: GIANT
+    9: 1d6 orcs
+    10: ANIMAL
+    11: NATURAL
+    12: ANIMAL
+    13: 1d6 orcs
+    14: ANIMAL
+    15: NATURAL
+    16: 1 swine daemon
+    17: 6d6 cave-men
+    18: ALIEN

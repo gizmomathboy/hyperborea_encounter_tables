@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/bluffs_hills
+# giant
+- dice: 3d6
+  results:
+    3: 1d6 giant trapdoor spiders
+    4: 1d4 giant bombardier beetles
+    5: 1d4+1 giant crab spiders
+    6: 1d6 giant ferrets
+    7: 1d6 giant tuataras (night only)
+    8: 1 giant weasel (night only)
+    9: 3d4 giant black centipedes
+    10: 1 giant chameleon
+    11: 3d6 giant rats
+    12: 1d6 giant bees
+    13: 2d4 giant pink centipedes
+    14: 3d6 giant ants
+    15: 1d6 giant toads
+    16: 1d4+1 giant draco lizards
+    17: 1d6 giant ticks
+    18: 1d6 giant wolf spiders

@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/watercourses_sea
+# giant
+- dice: 3d6
+  results:
+    3: 1 giant octopus
+    4: 1d2 aqua-hydras
+    5: 1 giant crocodile
+    6: 1 sea serpent
+    7: 1d6 giant bees (coastal only)
+    8: 1 giant weasel (night and coastal only)
+    9: 1d4 giant crabs
+    10: 1 great white shark
+    11: 1 killer whale
+    12: 1d4+1 blue whales
+    13: 3d6 giant rats (coastal only)
+    14: 1d6 giant ferrets (coastal only)
+    15: 1 giant squid
+    16: 1d4 narwhales
+    17: 1 monstrous crab
+    18: 1 colossal squid

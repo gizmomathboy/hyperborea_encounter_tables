@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/mountains_glaciated
+# natural
+- dice: 3d6
+  results:
+    3: Earthquake
+    4: Heavy Blizzard
+    5: Avalanche
+    6: Blizzard
+    7: Box Canyon
+    8: Geyser (volcanic only)
+    9: Thin Ice
+    10: Frostbite
+    11: Lost
+    12: Fever
+    13: Crevasse
+    14: Poison Gas (volcanic only)
+    15: Deep Freeze
+    16: Ash Eruption (volcanic only)
+    17: Russet Lotus (volcanic only)
+    18: Lava Eruption (volcanic only)

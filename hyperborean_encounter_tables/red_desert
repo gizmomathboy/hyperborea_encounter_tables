@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# red_desert
+- dice: 3d6
+  results:
+    3: MEN
+    4: 1d6 blink dogs
+    5: 2d4 giant chameleons
+    6: GIANT
+    7: 2d4 asps
+    8: 5d6 bactrian camels
+    9: 1d6 hyaena-men
+    10: NATURAL
+    11: ANIMAL
+    12: NATURAL
+    13: 5d6 dromedary camels
+    14: 5d6 horses
+    15: 1d6 giant tuataras (night only)
+    16: 6d6 hyaena-men
+    17: Violet Lotus
+    18: CELESTIAL

@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# trog_inlet
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: NATURAL
+    5: Light Patrol (ape-men of Kor)
+    6: PREHISTORIC
+    7: Light Patrol (ape-men of Kor)
+    8: GIANT
+    9: 1d6 ape-men
+    10: ANIMAL
+    11: NATURAL
+    12: PREHISTORIC
+    13: 1d6 ape-men
+    14: ANIMAL
+    15: GIANT
+    16: PREHISTORIC
+    17: 6d6 ape-men
+    18: ALIEN

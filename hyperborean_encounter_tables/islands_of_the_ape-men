@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# islands_of_the_ape-men
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: 6d6 ape-men
+    5: GIANT
+    6: PREHISTORIC
+    7: GIANT
+    8: PREHISTORIC
+    9: 1d6 ape-men
+    10: ANIMAL
+    11: NATURAL
+    12: PREHISTORIC
+    13: NATURAL
+    14: 1d6 ape-men
+    15: NATURAL
+    16: ANIMAL
+    17: NATURAL
+    18: UNDEAD

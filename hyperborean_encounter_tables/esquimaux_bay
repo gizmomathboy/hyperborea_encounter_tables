@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# esquimaux_bay
+- dice: 3d6
+  results:
+    3: ALIEN
+    4: GIANT
+    5: War Party (Esquimaux)
+    6: MEN
+    7: PREHISTORIC
+    8: 5d6 red deer
+    9: Hunting Party (Esquimaux)
+    10: ANIMAL
+    11: NATURAL
+    12: ANIMAL
+    13: Hunting Party (Esquimaux)
+    14: NATURAL
+    15: 1d2 giant elk
+    16: 1 woolly mammoth
+    17: UNDEAD
+    18: CELESTIAL

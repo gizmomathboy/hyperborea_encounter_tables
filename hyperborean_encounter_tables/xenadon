@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# xenadon
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: Medium Patrol (renegade Amazons)
+    5: NATURAL
+    6: ANIMAL
+    7: PREHISTORIC
+    8: Hunting Party (renegade Amazons)
+    9: NATURAL
+    10: ANIMAL
+    11: NATURAL
+    12: ANIMAL
+    13: GIANT
+    14: ANIMAL
+    15: Medium Patrol (renegade Amazons)
+    16: ANIMAL
+    17: Hunting Party (renegade Amazons)
+    18: Witch (12th-level)

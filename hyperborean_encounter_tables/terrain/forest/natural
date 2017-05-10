@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/forest
+# natural
+- dice: 3d6
+  results:
+    3: Black Lotus
+    4: Army Ants
+    5: Thunderstorm
+    6: Hailstorm
+    7: Sleet Storm
+    8: Cloudburst
+    9: Fever
+    10: Lost
+    11: Vermin
+    12: Insect Swarm
+    13: Fog Bank
+    14: Quicksand
+    15: Snowstorm
+    16: Blizzard
+    17: White-Speckled Blue Lotus
+    18: Earthquake

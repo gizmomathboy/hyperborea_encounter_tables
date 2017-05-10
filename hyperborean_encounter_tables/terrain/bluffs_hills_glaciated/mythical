@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/bluffs_hills_glaciated
+# mythical
+- dice: 3d6
+  results:
+    3: 1d2 minotaur superiors
+    4: 1d4 fomorians
+    5: 1 cyclops
+    6: 6d6 abominable snow-men
+    7: 1d4 gargoyles
+    8: 1d2 giant wolverines
+    9: 2d4 minotaurs
+    10: 1d6 giant toads (white)
+    11: 1d6 mountain apes
+    12: 1 giant weasel (evil, night only)
+    13: 1 winter wolf
+    14: 1d4+6 albino apes (night only)
+    15: 1d4 trolls
+    16: 1 gorgon
+    17: 3d6 men of Leng
+    18: 1d4 ice salamanders

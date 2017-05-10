@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/mountains
+# animal
+- dice: 3d6
+  results:
+    3: 3d6 giant eagles
+    4: 1d2 albino apes (night only)
+    5: 1d6 giant ferrets
+    6: 1d4 cave bears
+    7: 1d6 pterodactyls (volcanic only)
+    8: 1d6 falcons
+    9: 1 black bear
+    10: 1d10x100 bats (night only)
+    11: 1d12+6 wolves
+    12: 1 viper
+    13: 2d4 mountain lions
+    14: 1 brown bear
+    15: 1 giant weasel (night only)
+    16: 1d10x10 giant bats (night only)
+    17: 1d6 giant toads
+    18: 1d6 archaeopteryges

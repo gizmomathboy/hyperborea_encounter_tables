@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# abbicas_mere
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: Shining Mist
+    5: Fog Bank
+    6: ANIMAL
+    7: NATURAL
+    8: Geyser
+    9: ANIMAL
+    10: NATURAL
+    11: ANIMAL
+    12: NATURAL
+    13: Fog Bank
+    14: GIANT
+    15: ANIMAL
+    16: Geyser
+    17: GIANT
+    18: Witch (12th-level)

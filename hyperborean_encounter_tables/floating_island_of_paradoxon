@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# floating_island_of_paradoxon
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: ALIEN
+    5: MYTHICAL
+    6: NATURAL
+    7: Medium Patrol (Amazons)
+    8: GIANT
+    9: MEN
+    10: ANIMAL
+    11: NATURAL
+    12: Hunting Party (Amazons)
+    13: MYTHICAL
+    14: ANIMAL
+    15: Medium Patrol (Amazons)
+    16: UNDEAD
+    17: ALIEN
+    18: CELESTIAL

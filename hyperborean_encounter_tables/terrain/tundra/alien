@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/tundra
+# alien
+- dice: 3d6
+  results:
+    3: 1 albino ape superior (night only)
+    4: 1 remorhaz
+    5: 3d6 men of Leng
+    6: 1 sabre-tooth tiger superior
+    7: 1 winter wolf
+    8: 1d10+10 blink dogs
+    9: 6d6 leaper camels
+    10: 1d6 hyaena-men
+    11: 1d6 ape-men
+    12: 1 giant weasel (evil, night only)
+    13: 1 tentacular horror
+    14: 6d6 abominable snow-men
+    15: 1d4+6 albino apes (night only)
+    16: 1d2 giant wolverines
+    17: 1d6 purple spiders of Leng
+    18: 1d4 ice salamanders

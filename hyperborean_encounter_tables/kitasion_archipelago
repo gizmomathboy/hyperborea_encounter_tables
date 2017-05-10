@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# kitasion_archipelago
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: MEN
+    5: 1d2 gorgons
+    6: 1d2 manticores
+    7: MYTHICAL
+    8: Hunting Party (villagers)
+    9: NATURAL
+    10: ANIMAL
+    11: NATURAL
+    12: ANIMAL
+    13: NATURAL
+    14: 1d6 harpies
+    15: Hunting Party (villagers)
+    16: 1 cyclops
+    17: 1d2 basilisks
+    18: 2d4 cyclopes

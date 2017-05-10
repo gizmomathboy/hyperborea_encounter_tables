@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# stonebrook
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: GIANT
+    5: MEN
+    6: NATURAL
+    7: ANIMAL
+    8: Light Patrol (ducal troops)
+    9: ANIMAL
+    10: MEN
+    11: NATURAL
+    12: Light Patrol (ducal troops)
+    13: GIANT
+    14: MEN
+    15: Medium Patrol (ducal troops)
+    16: NATURAL
+    17: Light Patrol (ducal troops)
+    18: UNDEAD

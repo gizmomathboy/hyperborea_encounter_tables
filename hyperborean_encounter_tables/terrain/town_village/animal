@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/town_village
+# animal
+- dice: 3d6
+  results:
+    3: 1d2 giant stag beetles
+    4: 3d4 giant black centipedes
+    5: 1d100 bats (night only)
+    6: 1 woolly mammoth (domesticated)
+    7: 3d6 giant rats
+    8: 1 donkey (domesticated)
+    9: 1 riding horse
+    10: 5d10 rats
+    11: 1 aurochs (domesticated)
+    12: 1 draught horse
+    13: 5d6 reindeer (domesticated)
+    14: 1 viper
+    15: 1 falcon
+    16: 1 black bear
+    17: 1d6 giant bees
+    18: 2d4 giant pink centipedes

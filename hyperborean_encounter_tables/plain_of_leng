@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# plain_of_leng
+- dice: 3d6
+  results:
+    3: 6d6 abominable snow-men
+    4: 6d6 leaper camels
+    5: War Party (Esquimaux)
+    6: 1d6 abominable snow-men
+    7: 3d4 woolly rhinoceroses
+    8: NATURAL
+    9: 2d10x10 musk oxen
+    10: NATURAL
+    11: ANIMAL
+    12: Hunting Party (Esquimaux)
+    13: NATURAL
+    14: PREHISTORIC
+    15: 1d6+6 woolly mammoths
+    16: Hunting Party (Esquimaux)
+    17: 3d6 men of Leng
+    18: CELESTIAL

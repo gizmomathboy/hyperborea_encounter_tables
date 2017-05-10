@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# mu_minor
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: UNDEAD
+    5: ANIMAL
+    6: NATURAL
+    7: GIANT
+    8: NATURAL
+    9: Hunting Party (Mu folk)
+    10: ANIMAL
+    11: NATURAL
+    12: ANIMAL
+    13: Hunting Party (Mu folk)
+    14: ANIMAL
+    15: NATURAL
+    16: Light Patrol (Mu folk)
+    17: MYTHICAL
+    18: ALIEN

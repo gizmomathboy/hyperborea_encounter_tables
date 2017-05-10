@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/watercourses_sea
+# animal
+- dice: 3d6
+  results:
+    3: 1 colossal squid
+    4: 1 monstrous crab
+    5: 1 giant crocodile
+    6: 1 giant squid
+    7: 1d100 bats (night and coastal only)
+    8: 1d4+1 blue whales
+    9: 1d6 crocodiles
+    10: 1 killer whale
+    11: 1 great white shark
+    12: 1d4 giant crabs
+    13: 1d6 falcons (coastal only)
+    14: 1d4 narwhales
+    15: 1d10 giant bats (night and coastal only)
+    16: 1 pterodactyl (coastal only)
+    17: 1 archaeopteryx (coastal only)
+    18: 1 giant octopus

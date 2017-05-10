@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/desert_steppe
+# undead
+- dice: 3d6
+  results:
+    3: 1 vampire (incorporeal, night only)
+    4: 1 ghost (night only)
+    5: 1d6 wights (night only)
+    6: 1d4 giant skeletons
+    7: 1d4 ghasts
+    8: 1 large animal skeleton
+    9: 1d6 ghouls
+    10: 1d6 small animal skeletons
+    11: 3d10 skeletons
+    12: 1d6 medium animal skeletons
+    13: 1d4 large skeletons
+    14: 1 shadow (night only)
+    15: 1 mummy
+    16: 1d4 wraiths (night only)
+    17: 1d4 spectres (night only)
+    18: 1 lich

@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/bluffs_hills
+# animal
+- dice: 3d6
+  results:
+    3: 1 tiger
+    4: 2d4 mountain lions
+    5: 1 black bear
+    6: 1 viper
+    7: 2d10 rats
+    8: 2d8 wild dogs
+    9: 5d6 reindeer
+    10: 4d6 aurochs
+    11: 5d6 red deer
+    12: 1d10x100 bats (night only)
+    13: 1d6 boars
+    14: 1d12+6 wolves
+    15: 1d6 falcons
+    16: 2d4 hyaenas
+    17: 1 brown bear
+    18: 1d6 lions

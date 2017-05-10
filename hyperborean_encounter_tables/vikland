@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# vikland
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: Light Patrol (Vikings)
+    5: ANIMAL
+    6: Medium Patrol (Vikings)
+    7: MEN
+    8: NATURAL
+    9: Hunting Party (Vikings)
+    10: ANIMAL
+    11: NATURAL
+    12: ANIMAL
+    13: Light Patrol (Vikings)
+    14: GIANT
+    15: Hunting Party (Vikings)
+    16: MYTHICAL
+    17: MEN
+    18: UNDEAD

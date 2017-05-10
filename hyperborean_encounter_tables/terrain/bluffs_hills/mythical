@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/bluffs_hills
+# mythical
+- dice: 3d6
+  results:
+    3: 1d2 minotaur superiors
+    4: 1d4 fomorians
+    5: 1 gorgon
+    6: 1d6 abominable snow-men
+    7: 1d6 harpies
+    8: 1d6 night-gaunts
+    9: 1d6 wyverns
+    10: 1d6 mountain apes
+    11: 3d6 stirges
+    12: 2d4 minotaurs
+    13: 1d6 cockatrices
+    14: 1d4 gargoyles
+    15: 1 cyclops
+    16: 1d4 trolls
+    17: 1 pyro-hydra
+    18: 1 chimaera

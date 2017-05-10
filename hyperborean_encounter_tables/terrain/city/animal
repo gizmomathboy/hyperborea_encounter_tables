@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/city
+# animal
+- dice: 3d6
+  results:
+    3: 2d4 giant pink centipedes
+    4: 1 falcon
+    5: 1 woolly mammoth (domesticated)
+    6: 1 light warhorse
+    7: 1 bactrian camel (domesticated)
+    8: 1 draught horse
+    9: 3d6 giant rats
+    10: 1 aurochs (domesticated)
+    11: 5d10 rats
+    12: 1 riding horse
+    13: 1 donkey (domesticated)
+    14: 1 dromedary camel (domesticated)
+    15: 1 viper
+    16: 1 heavy warhorse
+    17: 1d100 bats (night only)
+    18: 3d4 giant black centipedes

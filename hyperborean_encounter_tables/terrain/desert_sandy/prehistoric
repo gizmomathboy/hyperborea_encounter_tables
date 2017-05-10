@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/desert_sandy
+# prehistoric
+- dice: 3d6
+  results:
+    3: 2d12 snake-men (2 -level illusionists)
+    4: 1 giant asp
+    5: 1 giant tuatara (night only)
+    6: 3d4 giant black centipedes
+    7: 2d4 giant chameleons
+    8: 3d6 giant rats
+    9: 1d6 giant ferrets
+    10: 1d6 cave-men
+    11: 1d6 ape-men
+    12: 1 giant weasel (night only)
+    13: 1d10 giant bats (night only)
+    14: 1 pterodactyl
+    15: 1d2 albino apes (night only)
+    16: 2d6 giant hyaenas
+    17: 1 archaeopteryx
+    18: 1 giant cobra

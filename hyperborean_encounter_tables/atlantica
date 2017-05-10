@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# atlantica
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: UNDEAD
+    5: NATURAL
+    6: MYTHICAL
+    7: Light Patrol (Atlanteans)
+    8: ANIMAL
+    9: Hunting Party (Atlanteans)
+    10: NATURAL
+    11: ANIMAL
+    12: Hunting Party (Atlanteans)
+    13: NATURAL
+    14: GIANT
+    15: ANIMAL
+    16: Light Patrol (Atlanteans)
+    17: MEN
+    18: ALIEN

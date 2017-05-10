@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/tundra
+# giant
+- dice: 3d6
+  results:
+    3: 1 woolly mammoth superior
+    4: 2d6 giant hyaenas
+    5: 3d4 woolly rhinoceroses
+    6: 1d4+6 albino apes (night only)
+    7: 1 sabre-tooth tiger
+    8: 1d6+6 dire wolves
+    9: 1d10 giant bats (night only)
+    10: 1 giant weasel (night only)
+    11: 1d6 giant toads (white)
+    12: 1d6 giant ferrets
+    13: 2d6 giant elk
+    14: 1d6+6 woolly mammoths
+    15: 1 giant python (white-furred)
+    16: 1d2 giant wolverines
+    17: 6d6 abominable snow-men
+    18: 1 sabre-tooth tiger superior

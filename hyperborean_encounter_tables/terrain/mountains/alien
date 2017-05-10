@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/mountains
+# alien
+- dice: 3d6
+  results:
+    3: 2d10 fire giants (volcanic only)
+    4: 1 albino ape superior (night only)
+    5: 4d4 hell hounds (volcanic only)
+    6: 1d6 abominable snow-men
+    7: 1d2 albino apes (night only)
+    8: 1d6 night-gaunts
+    9: 5d6 vhuurmis
+    10: 1d6 orcs
+    11: 3d4 bird-men
+    12: 1d6 hyaena-men
+    13: 1 giant weasel (evil, night only)
+    14: 1d4 gargoyles
+    15: 1d3 spore-men
+    16: 1 nightmare (volcanic only)
+    17: 1d6 giant phase spiders
+    18: 1d6 fire salamanders (volcanic only)

@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/swamp_marsh_wetlands
+# animal
+- dice: 3d6
+  results:
+    3: 1d6 lions
+    4: 2d4 hyaenas
+    5: 1d6 brown bears
+    6: 1 python
+    7: 1d3 black bears
+    8: 3d10 vipers
+    9: 5d10 rats
+    10: 4d6 aurochs
+    11: 5d6 red deer
+    12: 1d6 boars
+    13: 1d10x100 bats (night only)
+    14: 1d6 falcons
+    15: 1d12+6 wolves
+    16: 1 mountain lion
+    17: 1 tiger
+    18: 1d4 electric eels

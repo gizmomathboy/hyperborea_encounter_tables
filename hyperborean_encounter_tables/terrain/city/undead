@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/city
+# undead
+- dice: 3d6
+  results:
+    3: 1 vampire (night only)
+    4: 1d4 wraiths (night only)
+    5: 1 mummy
+    6: 1d4 giant skeletons
+    7: 1 ghast
+    8: 1d6 ghouls
+    9: 1 medium animal skeleton
+    10: 3d10 skeletons
+    11: 1 small animal skeleton
+    12: 4d6 zombies
+    13: 1 large animal skeleton
+    14: 1d6 large skeletons
+    15: 1 shadow (night only)
+    16: 1d6 wights (night only)
+    17: 1d10 ghosts (night only)
+    18: 1d4 spectres (night only)

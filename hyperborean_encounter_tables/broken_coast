@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# broken_coast
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: UNDEAD
+    5: NATURAL
+    6: ANIMAL
+    7: NATURAL
+    8: ANIMAL
+    9: GIANT
+    10: NATURAL
+    11: ANIMAL
+    12: NATURAL
+    13: ANIMAL
+    14: NATURAL
+    15: PREHISTORIC
+    16: NATURAL
+    17: MYTHICAL
+    18: ALIEN

@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/desert_sandy
+# men
+- dice: 3d6
+  results:
+    3: Necromancer
+    4: Pilgrims
+    5: NPC Party
+    6: Magician
+    7: Witch
+    8: Pyromancer
+    9: Barbarian
+    10: Fighter
+    11: Scout
+    12: Ranger
+    13: Cleric
+    14: Warlock
+    15: Monk
+    16: Prospector
+    17: Hermit
+    18: Illusionist

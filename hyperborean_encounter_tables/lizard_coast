@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# lizard_coast
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: UNDEAD
+    5: Smoky Lotus
+    6: 2d6 thew wagons
+    7: 1d6 lizard-men
+    8: 1 water snake
+    9: 1d6 lizard-men
+    10: ANIMAL
+    11: NATURAL
+    12: 1d2 giant elk
+    13: 1d4+1 giant draco lizards
+    14: 1 giant python
+    15: 1d6x10 lizard-men
+    16: Violet Lotus
+    17: Black Lotus
+    18: 2d12 tree-men (evil)

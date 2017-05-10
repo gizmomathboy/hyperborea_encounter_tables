@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# cape_calencia
+- dice: 3d6
+  results:
+    3: UNDEAD
+    4: MEN
+    5: ANIMAL
+    6: Light Patrol (Half-Blood Picts)
+    7: Hunting Party (Half-Blood Picts)
+    8: PREHISTORIC
+    9: Hunting Party (Half-Blood Picts)
+    10: ANIMAL
+    11: NATURAL
+    12: 1d6 ape-men
+    13: GIANT
+    14: ANIMAL
+    15: MEN
+    16: 6d6 ape-men
+    17: NATURAL
+    18: CELESTIAL

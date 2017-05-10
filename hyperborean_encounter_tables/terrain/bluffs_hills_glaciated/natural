@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/bluffs_hills_glaciated
+# natural
+- dice: 3d6
+  results:
+    3: Earthquake
+    4: Heavy Blizzard
+    5: Windstorm
+    6: Avalanche
+    7: Snowstorm
+    8: Box Canyon
+    9: Thin Ice
+    10: Frostbite
+    11: Lost
+    12: Fever
+    13: Crevasse
+    14: Snow Blind
+    15: Hailstorm
+    16: Blizzard
+    17: Static Electricity
+    18: Deep Freeze

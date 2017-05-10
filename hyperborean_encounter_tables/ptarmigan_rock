@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# ptarmigan_rock
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: MEN
+    5: UNDEAD
+    6: Shaman
+    7: 1d4+1 giant crab spiders
+    8: Light Patrol (Picts)
+    9: ANIMAL
+    10: Light Patrol (Picts)
+    11: NATURAL
+    12: GIANT
+    13: NATURAL
+    14: 1d4+1 giant crab spiders
+    15: Light Patrol (Picts)
+    16: MEN
+    17: 1d6 giant phase spiders
+    18: ALIEN

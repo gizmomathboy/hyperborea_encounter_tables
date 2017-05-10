@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/forest
+# alien
+- dice: 3d6
+  results:
+    3: 1 colour out of space (night only)
+    4: 1d2 nagas
+    5: 1d6 giant phase spiders
+    6: 1 sabre-tooth tiger superior
+    7: 1d6 giant weasels (evil, night only)
+    8: 1d4+1 owl bears
+    9: 1d6 lizard-men
+    10: 1d6 cave-men
+    11: 1d6 orcs
+    12: 6d6 ape-men
+    13: 1d4 rust monsters
+    14: 1 mountain ape
+    15: 2d4 carnivorous apes
+    16: 1 behir
+    17: 1 swine daemon
+    18: 2d12 tree-men

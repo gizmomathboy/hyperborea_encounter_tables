@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/grasslands_plains_scrublands
+# undead
+- dice: 3d6
+  results:
+    3: 1 vampire (night only)
+    4: 1 banshee (night only)
+    5: 1d4 wraiths (night only)
+    6: 1 shadow (night only)
+    7: 1d6 large skeletons
+    8: 1 large animal skeleton
+    9: 4d6 zombies
+    10: 1d6 small animal skeletons
+    11: 3d10 skeletons
+    12: 1d6 medium animal skeletons
+    13: 2d8 ghouls
+    14: 1d4 ghasts
+    15: 1d4 giant skeletons
+    16: 1d6 wights (night only)
+    17: 1 ghost (night only)
+    18: 1d4 spectres (night only)

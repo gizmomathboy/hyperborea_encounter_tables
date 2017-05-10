@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/forest
+# mythical
+- dice: 3d6
+  results:
+    3: 1d2 nagas
+    4: 1 chimaera
+    5: 1d6 giant wolf spiders (evil)
+    6: 1d2 basilisks
+    7: 1d6 harpies
+    8: 1d6 cockatrices
+    9: 1 mountain ape
+    10: 3d6 stirges
+    11: 1d6 giant weasels (evil, night only)
+    12: 2d4 minotaurs
+    13: 1d6 wyverns
+    14: 1d6 archaeopteryges
+    15: 1d4 trolls
+    16: 1 cyclops
+    17: 1d2 minotaur superiors
+    18: 1d3 daemons (class 1d3)

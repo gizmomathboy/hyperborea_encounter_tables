@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# brigands_bay
+- dice: 3d6
+  results:
+    3: UNDEAD
+    4: Heavy Cavalry (“nobles”)
+    5: 1d10x10 bandits
+    6: Light Cavalry (“nobles”)
+    7: MEN
+    8: NATURAL
+    9: 2d6 bandits
+    10: ANIMAL
+    11: NATURAL
+    12: Hunting Party (“nobles”)
+    13: ANIMAL
+    14: Light Patrol (“nobles”)
+    15: Medium Patrol (“nobles”)
+    16: Light Patrol (“nobles”)
+    17: MEN
+    18: CELESTIAL

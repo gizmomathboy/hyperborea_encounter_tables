@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# barrier_mountains
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: ALIEN
+    5: MEN
+    6: NATURAL
+    7: Hunting Party (Esquimaux)
+    8: ANIMAL
+    9: NATURAL
+    10: ANIMAL
+    11: NATURAL
+    12: PREHISTORIC
+    13: ANIMAL
+    14: Hunting Party (Half-Blood Picts)
+    15: NATURAL
+    16: ALIEN
+    17: UNDEAD
+    18: CELESTIAL

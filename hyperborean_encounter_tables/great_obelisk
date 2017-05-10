@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# great_obelisk
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: ALIEN
+    5: MYTHICAL
+    6: PREHISTORIC
+    7: NATURAL
+    8: ALIEN
+    9: ANIMAL
+    10: NATURAL
+    11: ANIMAL
+    12: NATURAL
+    13: ALIEN
+    14: NATURAL
+    15: GIANT
+    16: UNDEAD
+    17: ALIEN
+    18: CELESTIAL

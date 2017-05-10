@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# orcust
+- dice: 3d6
+  results:
+    3: ALIEN
+    4: 1d3 daemons (class 1d3)
+    5: NATURAL
+    6: 1d8x10 orcs
+    7: ANIMAL
+    8: 1d6 orcs
+    9: ANIMAL
+    10: NATURAL
+    11: 1d6 orcs
+    12: NATURAL
+    13: GIANT
+    14: 1d8x10 orcs
+    15: NATURAL
+    16: 1 swine daemon
+    17: 5d10x10 orcs
+    18: CELESTIAL

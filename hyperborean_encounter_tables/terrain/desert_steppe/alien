@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/desert_steppe
+# alien
+- dice: 3d6
+  results:
+    3: 1 albino ape superior (night only)
+    4: 1d6 giant phase spiders
+    5: 1d2 giant wolverines
+    6: 1d6 night-gaunts
+    7: 1 tentacular horror
+    8: 1d4 rust monsters
+    9: 6d6 hyaena-men
+    10: 1d6 cave-men
+    11: 1d6 orcs
+    12: 1d6 ape-men
+    13: 1d6 lizard-men
+    14: 1d10+10 blink dogs
+    15: 1 leaper camel
+    16: 1d2 albino apes (night only)
+    17: 1 sabre-tooth tiger superior
+    18: 1 purple worm

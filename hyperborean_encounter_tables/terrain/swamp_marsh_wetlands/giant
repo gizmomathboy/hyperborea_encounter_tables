@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/swamp_marsh_wetlands
+# giant
+- dice: 3d6
+  results:
+    3: 1 giant python
+    4: 1d4+1 giant crab spiders
+    5: 4d6 giant bombardier beetles
+    6: 5d6 giant bees
+    7: 1d6 giant tuataras (night only)
+    8: 1d6 giant toads
+    9: 2d4 giant chameleons
+    10: 2d4 giant pink centipedes
+    11: 3d4 giant black centipedes
+    12: 2d6 giant fire beetles (night only)
+    13: 3d6 giant ants
+    14: 1d4 giant leeches
+    15: 2d6 giant frogs
+    16: 1 water snake
+    17: 1d4+1 giant draco lizards
+    18: 1d6 giant ticks

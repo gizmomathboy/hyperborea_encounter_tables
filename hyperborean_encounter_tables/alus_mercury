@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# alus_mercury
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: PREHISTORIC
+    5: NATURAL
+    6: MYTHICAL
+    7: MEN
+    8: ANIMAL
+    9: GIANT
+    10: NATURAL
+    11: ANIMAL
+    12: NATURAL
+    13: ANIMAL
+    14: UNDEAD
+    15: ANIMAL
+    16: GIANT
+    17: UNDEAD
+    18: ALIEN

@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/mountains_glaciated
+# mythical
+- dice: 3d6
+  results:
+    3: 1d4 ice salamanders
+    4: 1d2 fire giants (volcanic only)
+    5: 2d6 fomorians
+    6: 3d6 men of Leng
+    7: 1 nightmare (volcanic only)
+    8: 1d4 trolls
+    9: 2d4 winter wolves
+    10: 2d4 minotaurs
+    11: 1d6 mountain apes
+    12: 1d4 gargoyles
+    13: 6d6 abominable snow-men
+    14: 2d4 hell hounds (volcanic only)
+    15: 1 cyclops
+    16: 1d2 minotaur superiors
+    17: 2d10 frost giants
+    18: 1d6 fire salamanders (volcanic only)

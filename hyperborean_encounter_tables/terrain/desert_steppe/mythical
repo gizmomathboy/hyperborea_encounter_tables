@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/desert_steppe
+# mythical
+- dice: 3d6
+  results:
+    3: 1d3 daemons (class 1d3)
+    4: 1d2 lamiae
+    5: 1d2 minotaur superiors
+    6: 1d2 manticores
+    7: 1d6 cockatrices
+    8: 1d6 night gaunts
+    9: 1 minotaur
+    10: 1 giant weasel (evil, night only)
+    11: 3d6 stirges
+    12: 1d2 giant wolverines
+    13: 1d2 albino apes (night only)
+    14: 1d4 gargoyles
+    15: 1 wyvern
+    16: 1d6 giant wolf spiders (evil)
+    17: 1 succubus
+    18: 1d2 nagas

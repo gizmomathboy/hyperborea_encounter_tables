@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/desert_sandy
+# alien
+- dice: 3d6
+  results:
+    3: 1 ghul
+    4: 1 albino ape superior (night only)
+    5: 1d6 fire salamanders
+    6: 2d12 snake-men (2nd-level illusionists)
+    7: 1d2 albino apes (night only)
+    8: 1d6 night gaunts
+    9: 1d6 hyaena-men
+    10: 1d6 ape-men
+    11: 1d6 cave-men
+    12: 1 leaper camel
+    13: 1d4 rust monsters
+    14: 2d6 mi-go
+    15: 1 purple worm
+    16: 1d6 giant phase spiders
+    17: 1d4+1 Great Race
+    18: 1 colour out of space (night only)

@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/desert_steppe
+# giant
+- dice: 3d6
+  results:
+    3: 1d6 giant scorpions
+    4: 1d6 giant wolf spiders
+    5: 1d6 giant ticks
+    6: 1d4+1 giant draco lizards
+    7: 1 giant tuatara (night only)
+    8: 1d6 giant toads
+    9: 3d6 giant ants
+    10: 3d6 giant rats
+    11: 1d6 giant ferrets
+    12: 1d10 giant bats (night only)
+    13: 2d4 giant chameleons
+    14: 1 giant weasel (night only)
+    15: 1d2 giant stag beetles
+    16: 3d10 giant hyaenas
+    17: 1d4+1 giant crab spiders
+    18: 1d6 giant trapdoor spiders

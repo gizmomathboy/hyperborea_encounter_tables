@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# lug_wasteland
+- dice: 3d6
+  results:
+    3: ALIEN
+    4: War Party (Kimmeri-Kelts)
+    5: MEN
+    6: 2d6 giant fire beetles (night only)
+    7: MEN
+    8: Hunting Party (city-dwellers)
+    9: ANIMAL
+    10: NATURAL
+    11: ANIMAL
+    12: GIANT
+    13: 1d6 giant fire beetles (night only)
+    14: ANIMAL
+    15: 1d6 giant fire beetles (night only)
+    16: PREHISTORIC
+    17: MYTHICAL
+    18: CELESTIAL

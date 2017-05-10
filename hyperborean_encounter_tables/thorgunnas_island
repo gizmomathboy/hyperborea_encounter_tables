@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# thorgunnas_island
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: UNDEAD
+    5: GIANT
+    6: 4d10 wild berserkers (naked)
+    7: PREHISTORIC
+    8: ANIMAL
+    9: 1d6 wild berserkers (naked)
+    10: ANIMAL
+    11: NATURAL
+    12: ANIMAL
+    13: GIANT
+    14: 1d6 wild berserkers (naked)
+    15: ANIMAL
+    16: NATURAL
+    17: 4d10 wild berserkers (naked)
+    18: Witch (12th-level)

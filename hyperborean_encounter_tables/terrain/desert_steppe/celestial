@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/desert_steppe
+# celestial
+- dice: 3d6
+  results:
+    3: The Stars Are Right
+    4: Comet
+    5: Planetary Alignment
+    6: Lunar Eclipse
+    7: Fortean Fall
+    8: Mocking Star
+    9: Lights in the Sky
+    10: Falling Star
+    11: Aurora
+    12: Stellar Conjunction
+    13: Meteor Shower
+    14: Star Stone
+    15: Shining Mist
+    16: Accursed Moonbeam
+    17: Weird Vibrations
+    18: Wind from the Gulf

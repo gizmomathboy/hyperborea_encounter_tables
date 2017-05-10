@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/watercourses_sea
+# celestial
+- dice: 3d6
+  results:
+    3: The Stars Are Right
+    4: Seas Turned to Blood
+    5: Weird Vibrations
+    6: Planetary Alignment
+    7: Lunar Eclipse
+    8: Mocking Star
+    9: Lights in the Sky
+    10: Falling Star
+    11: Aurora
+    12: Stellar Conjunction
+    13: Meteor Shower
+    14: Fortean Fall
+    15: Shining Mist
+    16: Comet
+    17: Voice of Doom
+    18: Wind from the Gulf

@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/town_village
+# celestial
+- dice: 3d6
+  results:
+    3: The Stars Are Right
+    4: Accursed Moonbeam
+    5: Comet
+    6: Planetary Alignment
+    7: Lunar Eclipse
+    8: Mocking Star
+    9: Lights in the Sky
+    10: Falling Star
+    11: Aurora
+    12: Fortean Fall
+    13: Stellar Conjunction
+    14: Meteor Shower
+    15: Star Stone
+    16: Mad Whispers
+    17: Shining Mist
+    18: Weird Vibrations

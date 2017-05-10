@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# gal_hills
+- dice: 3d6
+  results:
+    3: ALIEN
+    4: 1d6 giant wolf spiders
+    5: 1 tiger
+    6: 1d6 lions
+    7: Druid
+    8: 1 mountain lion
+    9: Hunting Party (Kelts)
+    10: ANIMAL
+    11: NATURAL
+    12: 2d4 wolves
+    13: Light Patrol (Kelts)
+    14: 1 black bear
+    15: MEN
+    16: 1 brown bear
+    17: UNDEAD
+    18: CELESTIAL

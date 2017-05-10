@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/town_village
+# natural
+- dice: 3d6
+  results:
+    3: Hurricane (coastal only)
+    4: Tornado (non-desert only)
+    5: Plague
+    6: Hailstorm (non-desert only)
+    7: Thunderstorm (non-desert only)
+    8: Sleet Storm (non-desert only)
+    9: Vermin
+    10: Fog Bank (non-desert only)
+    11: Fever
+    12: Cloudburst (non-desert only)
+    13: Sandstorm (desert only)
+    14: Heat Wave (desert only)
+    15: Snowstorm (non-desert only)
+    16: Blizzard (non-desert only)
+    17: Heavy Blizzard (non-desert only)
+    18: Earthquake

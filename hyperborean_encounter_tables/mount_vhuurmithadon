@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# mount_vhuurmithadon
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: ALIEN
+    5: UNDEAD
+    6: ALIEN
+    7: 5d6 vhuurmis
+    8: PREHISTORIC
+    9: 2d6 vhuurmis
+    10: ANIMAL
+    11: NATURAL
+    12: 2d6 vhuurmis
+    13: GIANT
+    14: 5d6 vhuurmis
+    15: ALIEN
+    16: MYTHICAL
+    17: ALIEN
+    18: CELESTIAL

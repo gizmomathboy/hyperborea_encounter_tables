@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/watercourses_lakes_and_rivers
+# natural
+- dice: 3d6
+  results:
+    3: Ball Lightning
+    4: Plague
+    5: Thunderstorm
+    6: Funeral Barge
+    7: Snowstorm
+    8: Insect Swarm
+    9: Fever
+    10: Vermin
+    11: Fog Bank
+    12: Cloudburst
+    13: Sleet Storm
+    14: Windstorm
+    15: Flash Flood
+    16: Hailstorm
+    17: Blizzard
+    18: Earthquake

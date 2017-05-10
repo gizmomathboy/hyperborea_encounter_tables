@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/grasslands_plains_scrublands
+# animal
+- dice: 3d6
+  results:
+    3: 1d4 tigers
+    4: 1 mountain lion
+    5: 5d10 hyaenas
+    6: 1 black bear
+    7: 1d100 bats (night only)
+    8: 1 viper
+    9: 1d6 boars
+    10: 2d10x10 red deer
+    11: 4d6 aurochs
+    12: 5d6 wild horses
+    13: 2d8 wild dogs
+    14: 1d12+6 wolves
+    15: 1d6 falcons
+    16: 1 cobra
+    17: 6d4 lions
+    18: 1 brown bear

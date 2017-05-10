@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# isle_of_ghul
+- dice: 3d6
+  results:
+    3: Necromancer (12th-level)
+    4: UNDEAD
+    5: 2d8 ghouls
+    6: NATURAL
+    7: 4d6 zombies
+    8: NATURAL
+    9: 1d6 zombies
+    10: NATURAL
+    11: 2d4 skeletons
+    12: NATURAL
+    13: 3d10 skeletons
+    14: NATURAL
+    15: 1d6 ghouls
+    16: NATURAL
+    17: UNDEAD
+    18: CELESTIAL

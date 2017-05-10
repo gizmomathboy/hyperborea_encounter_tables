@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/grasslands_plains_scrublands
+# alien
+- dice: 3d6
+  results:
+    3: 1d2 nagas
+    4: 1 purple worm
+    5: 1d6 giant phase spiders
+    6: 2d6 thew wagons
+    7: 1 owl bear
+    8: 1d6 lizard-men
+    9: 6d6 ape-men
+    10: 1d6 orcs
+    11: 1d6 cave-men
+    12: 6d6 hyaena-men
+    13: 1d4 rust monsters
+    14: 1d6 night-gaunts
+    15: 1 giant weasel (evil, night only)
+    16: 1 sabre-tooth tiger superior
+    17: 1 swine daemon
+    18: 1 colour out of space (night only)

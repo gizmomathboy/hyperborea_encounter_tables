@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/forest
+# prehistoric
+- dice: 3d6
+  results:
+    3: 2d4 carnivorous apes
+    4: 1d4 sabre-tooth tigers
+    5: 1d6 archaeopteryges
+    6: 2d6 giant hyaenas
+    7: 1d6 giant weasels (night only)
+    8: 1d2 giant elk
+    9: 1 mountain ape
+    10: 1d6 cave-men
+    11: 6d6 ape-men
+    12: 1d6 lizard-men
+    13: 3d6 giant rats
+    14: 1 pterodactyl
+    15: 1d10x10 giant bats (night only)
+    16: 2d4 ground sloths
+    17: 1 cave bear
+    18: 1 giant python

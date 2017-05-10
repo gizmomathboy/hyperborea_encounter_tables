@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# new_amazonia
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: MYTHICAL
+    5: MEN
+    6: Medium Patrol (Amazons)
+    7: MYTHICAL
+    8: NATURAL
+    9: Hunting Party (Amazons)
+    10: ANIMAL
+    11: NATURAL
+    12: ANIMAL
+    13: GIANT
+    14: Medium Patrol (Amazons)
+    15: ANIMAL
+    16: MEN
+    17: UNDEAD
+    18: ALIEN

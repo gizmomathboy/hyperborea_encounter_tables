@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/bluffs_hills_glaciated
+# celestial
+- dice: 3d6
+  results:
+    3: White Death
+    4: Wind from the Gulf
+    5: Comet
+    6: Red Fog
+    7: Star Stone
+    8: Mocking Star
+    9: Lights in the Sky
+    10: Falling Star
+    11: Aurora
+    12: Stellar Conjunction
+    13: Meteor Shower
+    14: Lunar Eclipse
+    15: Shining Mist
+    16: Weird Vibrations
+    17: Voice of Doom
+    18: Uncanny Vertigo

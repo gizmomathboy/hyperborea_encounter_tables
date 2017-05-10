@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# thaumagorgas_teeth
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: 1 daemon (class 1d6)
+    5: UNDEAD
+    6: NATURAL
+    7: ALIEN
+    8: NATURAL
+    9: 2d6 pterodactyls
+    10: NATURAL
+    11: 2d6 pterodactyls
+    12: NATURAL
+    13: ALIEN
+    14: NATURAL
+    15: UNDEAD
+    16: 1d3 daemons (class 1d3)
+    17: 2d6 bandits (castaways)
+    18: CELESTIAL

@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/forest
+# celestial
+- dice: 3d6
+  results:
+    3: Dread Silence
+    4: Weird Vibrations
+    5: Accursed Moonbeam
+    6: Shining Mist
+    7: Mad Whispers
+    8: Meteor Shower
+    9: Stellar Conjunction
+    10: Aurora
+    11: Falling Star
+    12: Lights in the Sky
+    13: Mocking Star
+    14: Lunar Eclipse
+    15: Planetary Alignment
+    16: Comet
+    17: Voice of Doom
+    18: The Stars Are Right

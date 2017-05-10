@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/mountains_glaciated
+# prehistoric
+- dice: 3d6
+  results:
+    3: 6d6 abominable snow-men
+    4: 1d6 archaeopteryges (volcanic only)
+    5: 1d10x10 giant bats (night only)
+    6: 1 giant python (white-furred)
+    7: 1d6 giant toads (white)
+    8: 2d6 vhuurmis
+    9: 1d6 mountain apes
+    10: 1d6 ape-men
+    11: 6d6 cave-men
+    12: 1 giant weasel (night only)
+    13: 1d6 giant ferrets
+    14: 1d6 dire wolves
+    15: 1d6 pterodactyls (volcanic only)
+    16: 1d2 giant wolverines
+    17: 1d4+6 albino apes (night only)
+    18: 1d4 cave bears

@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/mountains
+# mythical
+- dice: 3d6
+  results:
+    3: 2d10 fire giants (volcanic only)
+    4: 1d2 pyro-hydras
+    5: 1d2 manticores
+    6: 1d6 pegasuses
+    7: 1d6 giant eagles (good)
+    8: 1d4 trolls
+    9: 1d6 harpies
+    10: 2d6 hippogriffs
+    11: 2d4 minotaurs
+    12: 2d6 griffins
+    13: 1d6 wyverns
+    14: 1 cyclops
+    15: 2d6 fomorians
+    16: 1 chimaera
+    17: 1d2 minotaur superiors
+    18: 1d6 fire salamanders (volcanic only)

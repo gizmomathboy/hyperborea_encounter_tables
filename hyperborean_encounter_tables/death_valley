@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# death_valley
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: 1d6 fire salamanders
+    5: ALIEN
+    6: MYTHICAL
+    7: NATURAL
+    8: UNDEAD
+    9: GIANT
+    10: ANIMAL
+    11: NATURAL
+    12: PREHISTORIC
+    13: ALIEN
+    14: NATURAL
+    15: UNDEAD
+    16: 1d2 fire giants
+    17: 1d3 daemons (class 1d3)
+    18: CELESTIAL

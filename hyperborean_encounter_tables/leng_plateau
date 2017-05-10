@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# leng_plateau
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: 1d4 cave bears
+    5: 1d4 sabre-tooth tigers
+    6: 6d6 leaper camels
+    7: Hunting Party (Esquimaux)
+    8: NATURAL
+    9: 2d10x10 musk oxen
+    10: NATURAL
+    11: ANIMAL
+    12: 3d4 woolly rhinoceroses
+    13: PREHISTORIC
+    14: 1d6+6 dire wolves
+    15: 1d4 polar bears
+    16: 3d6 men of Leng
+    17: 2d4 winter wolves
+    18: CELESTIAL

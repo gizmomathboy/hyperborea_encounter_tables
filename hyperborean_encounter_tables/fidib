@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# fidib
+- dice: 3d6
+  results:
+    3: Shaman (12 -level)
+    4: 1d6 giant phase spiders
+    5: 1d6 giant wolf spiders (evil)
+    6: MEN
+    7: Light Patrol (Picts)
+    8: MEN
+    9: ANIMAL
+    10: MEN
+    11: NATURAL
+    12: Light Patrol (Picts)
+    13: GIANT
+    14: 1d4+1 giant crab spiders
+    15: 1d6 giant trapdoor spiders
+    16: NATURAL
+    17: UNDEAD
+    18: CELESTIAL

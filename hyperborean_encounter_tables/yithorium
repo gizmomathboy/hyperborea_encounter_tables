@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# yithorium
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: MEN
+    5: NATURAL
+    6: Medium Patrol (mercenaries)
+    7: Slaves
+    8: GIANT
+    9: ANIMAL
+    10: MEN
+    11: NATURAL
+    12: Light Patrol (mercenaries)
+    13: MEN
+    14: ALIEN
+    15: ANIMAL
+    16: UNDEAD
+    17: Medium Patrol (mercenaries)
+    18: ALIEN

@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/mountains_glaciated
+# men
+- dice: 3d6
+  results:
+    3: Hermit
+    4: Monk
+    5: Cleric
+    6: Warlock
+    7: Shaman
+    8: Ranger
+    9: Barbarian
+    10: Scout
+    11: 1d6 wild berserkers
+    12: Fighter
+    13: Berserker
+    14: Witch
+    15: Druid
+    16: Necromancer
+    17: NPC Party
+    18: Bard

@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# erikssgard
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: Medium Patrol (Vikings)
+    5: NATURAL
+    6: ANIMAL
+    7: Medium Patrol (Vikings)
+    8: MEN
+    9: Light Patrol (Vikings)
+    10: NATURAL
+    11: MEN
+    12: ANIMAL
+    13: NATURAL
+    14: MEN
+    15: Light Patrol (Vikings)
+    16: NATURAL
+    17: MEN
+    18: UNDEAD

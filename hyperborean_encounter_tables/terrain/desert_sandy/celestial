@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/desert_sandy
+# celestial
+- dice: 3d6
+  results:
+    3: Wind from the Gulf
+    4: Voice of Doom
+    5: Weird Vibrations
+    6: Planetary Alignment
+    7: Star Stone
+    8: Meteor Shower
+    9: Stellar Conjunction
+    10: Aurora
+    11: Falling Star
+    12: Lights in the Sky
+    13: Fortean Fall
+    14: Mocking Star
+    15: Lunar Eclipse
+    16: Comet
+    17: Dread Silence
+    18: The Stars Are Right

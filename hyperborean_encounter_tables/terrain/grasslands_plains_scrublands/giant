@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/grasslands_plains_scrublands
+# giant
+- dice: 3d6
+  results:
+    3: 1d6 giant wolf spiders
+    4: 1d4+1 giant draco lizards
+    5: 1d2 giant stag beetles
+    6: 2d6 giant frogs
+    7: 5d6 giant bees
+    8: 1d6 giant tuataras (night only)
+    9: 1d6 giant fire beetles (night only)
+    10: 3d4 giant black centipedes
+    11: 2d4 giant pink centipedes
+    12: 3d6 giant ants
+    13: 1d6 giant toads
+    14: 1d4 giant komodo dragons
+    15: 1d4 giant bombardier beetles
+    16: 1d6 giant ticks
+    17: 1d6 giant trapdoor spiders
+    18: 1 giant cobra

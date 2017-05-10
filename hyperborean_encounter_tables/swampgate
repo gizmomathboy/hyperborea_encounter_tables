@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# swampgate
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: NATURAL
+    5: MEN
+    6: ANIMAL
+    7: Ranger
+    8: ANIMAL
+    9: Light Patrol (militia)
+    10: MEN
+    11: NATURAL
+    12: ANIMAL
+    13: NATURAL
+    14: Light Patrol (militia)
+    15: GIANT
+    16: ANIMAL
+    17: MEN
+    18: UNDEAD

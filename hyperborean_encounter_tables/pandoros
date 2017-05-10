@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# pandoros
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: UNDEAD
+    5: MYTHICAL
+    6: NATURAL
+    7: Medium Patrol (Amazons)
+    8: ANIMAL
+    9: NATURAL
+    10: MEN
+    11: NATURAL
+    12: Medium Patrol (Amazons)
+    13: MEN
+    14: GIANT
+    15: MEN
+    16: Medium Patrol (Amazons)
+    17: MYTHICAL
+    18: ALIEN

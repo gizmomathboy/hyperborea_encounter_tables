@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/town_village
+# undead
+- dice: 3d6
+  results:
+    3: 1 spectre (night only)
+    4: 1 banshee (night only)
+    5: 1d6 wights (night only)
+    6: 1d4 giant skeletons
+    7: 1 ghast
+    8: 1 large animal skeleton
+    9: 1d6 zombies
+    10: 1 small animal skeleton
+    11: 2d4 skeletons
+    12: 1 medium animal skeleton
+    13: 1d6 ghouls
+    14: 1d6 large skeletons
+    15: 1 shadow (night only)
+    16: 1d4 wraiths (night only)
+    17: 1 ghost (night only)
+    18: 1 vampire (night only)

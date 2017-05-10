@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# mount_forptycle
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: Uncanny Vertigo
+    5: UNDEAD
+    6: ANIMAL
+    7: ALIEN
+    8: Shining Mist
+    9: ANIMAL
+    10: NATURAL
+    11: ANIMAL
+    12: NATURAL
+    13: Shining Mist
+    14: ALIEN
+    15: GIANT
+    16: PREHISTORIC
+    17: ALIEN
+    18: CELESTIAL

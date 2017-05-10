@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# anlates_isles
+- dice: 3d6
+  results:
+    3: GIANT
+    4: 4d10 wild berserkers (naked)
+    5: GIANT
+    6: 1d6 wild berserkers (naked)
+    7: ANIMAL
+    8: GIANT
+    9: 1d6 wild berserkers (naked)
+    10: ANIMAL
+    11: NATURAL
+    12: ANIMAL
+    13: NATURAL
+    14: 4d10 wild berserkers (naked)
+    15: NATURAL
+    16: ANIMAL
+    17: 4d10 wild berserkers (naked)
+    18: CELESTIAL

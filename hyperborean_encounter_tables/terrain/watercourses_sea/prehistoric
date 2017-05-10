@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/watercourses_sea
+# prehistoric
+- dice: 3d6
+  results:
+    3: 1 colossal squid
+    4: 1 monstrous crab
+    5: 1d4+1 blue whales
+    6: 1 archaeopteryx (coastal only)
+    7: 1d4 giant crabs
+    8: 1 great white shark
+    9: 1 pterodactyl (coastal only)
+    10: 1d6 ape-men (in canoe, coastal only)
+    11: 1d6 cave-men (in canoe, coastal only)
+    12: 1d6x10 lizard-men (coastal only)
+    13: 3d6 giant rats (coastal only)
+    14: 2d4x10 fish-men
+    15: 1 killer whale
+    16: 1 giant crocodile
+    17: 1 giant squid
+    18: 1 giant octopus

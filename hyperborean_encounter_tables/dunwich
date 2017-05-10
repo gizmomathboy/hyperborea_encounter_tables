@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# dunwich
+- dice: 3d6
+  results:
+    3: ALIEN
+    4: GIANT
+    5: ANIMAL
+    6: Light Patrol (Kelts)
+    7: NATURAL
+    8: Light Patrol (Kelts)
+    9: NATURAL
+    10: MEN
+    11: NATURAL
+    12: ANIMAL
+    13: MEN
+    14: ANIMAL
+    15: MEN
+    16: NATURAL
+    17: UNDEAD
+    18: CELESTIAL

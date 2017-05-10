@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/watercourses_lakes_and_rivers
+# men
+- dice: 3d6
+  results:
+    3: Illusionist (in rowboat)
+    4: Warlock (in snekke)
+    5: Cleric (in snekke)
+    6: NPC Party (in snekke)
+    7: Thief (in rowboat)
+    8: Merchants (on river barge)
+    9: Ranger (in canoe)
+    10: Fighter (in snekke)
+    11: Scout (in canoe)
+    12: Barbarian (in canoe)
+    13: 1d10x10 bandits (on river barge)
+    14: Druid (in canoe)
+    15: Pilgrims (on river barge)
+    16: Witch (on raft)
+    17: Assassin (in rowboat)
+    18: Magician (in snekke)

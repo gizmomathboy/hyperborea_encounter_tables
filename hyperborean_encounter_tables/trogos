@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# trogos
+- dice: 3d6
+  results:
+    3: 1d3 oon (level 1d12 scouts)
+    4: 1d6x10 troglodytes (night only)
+    5: ALIEN
+    6: 1d6 ape-men
+    7: ANIMAL
+    8: PREHISTORIC
+    9: GIANT
+    10: NATURAL
+    11: ANIMAL
+    12: 1d6 ape-men
+    13: 2d4 troglodytes (night only)
+    14: GIANT
+    15: PREHISTORIC
+    16: 6d6 ape-men
+    17: MEN
+    18: CELESTIAL

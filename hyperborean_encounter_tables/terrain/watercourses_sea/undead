@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/watercourses_sea
+# undead
+- dice: 3d6
+  results:
+    3: 1 vampire (on ghost ship)
+    4: 1 ghost (night only)
+    5: 1d4 wraiths (night only)
+    6: 1 mummy (on ghost ship)
+    7: 1d4 ghasts (on ghost ship)
+    8: 1 large animal skeleton (shark)
+    9: 4d6 zombies (on ghost ship)
+    10: 1d6 small animal skeletons (fish)
+    11: 3d10 skeletons (on ghost ship)
+    12: 1d6 med. animal skeletons (dolphins)
+    13: 2d8 ghouls (lacedons)
+    14: 1 shadow (night only)
+    15: 1d6 wights (on ghost ship)
+    16: 1 banshee (night only)
+    17: 1 spectre (night only)
+    18: 1 lich (on ghost ship)

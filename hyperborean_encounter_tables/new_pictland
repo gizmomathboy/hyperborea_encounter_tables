@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# new_pictland
+- dice: 3d6
+  results:
+    3: 1d6 giant phase spiders
+    4: MEN
+    5: 1d6 giant trapdoor spiders
+    6: 1d4 giant black widows
+    7: Light Patrol (Picts)
+    8: 1d4+1 giant crab spiders
+    9: ANIMAL
+    10: NATURAL
+    11: ANIMAL
+    12: Hunting Party (Picts)
+    13: NATURAL
+    14: 1d6 giant ogre-faced spiders
+    15: GIANT
+    16: Light Patrol (Picts)
+    17: 1d6 giant wolf spiders (evil)
+    18: CELESTIAL

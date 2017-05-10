@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/grasslands_plains_scrublands
+# men
+- dice: 3d6
+  results:
+    3: Paladin
+    4: Magician
+    5: Warlock
+    6: Barbarian
+    7: Merchants
+    8: Thief
+    9: Cataphract
+    10: Scout
+    11: 2d6 bandits
+    12: Fighter
+    13: Cleric
+    14: NPC Party
+    15: Pilgrims
+    16: Assassin
+    17: Illusionist
+    18: 2d4 werewolves (human form)

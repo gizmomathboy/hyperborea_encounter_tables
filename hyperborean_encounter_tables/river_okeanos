@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# river_okeanos
+- dice: 3d6
+  results:
+    3: ALIEN
+    4: MEN
+    5: 1 giant octopus
+    6: 1d4 sea serpents
+    7: MYTHICAL
+    8: 2d6 great white sharks
+    9: PREHISTORIC
+    10: NATURAL
+    11: ANIMAL
+    12: GIANT
+    13: 1d4 killer whales
+    14: 1 giant crocodile
+    15: 4d4 giant crabs
+    16: 1d4 giant squids
+    17: UNDEAD
+    18: CELESTIAL

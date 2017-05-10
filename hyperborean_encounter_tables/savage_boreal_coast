@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# savage_boreal_coast
+- dice: 3d6
+  results:
+    3: ALIEN
+    4: UNDEAD
+    5: War Party (Half-Blood Picts)
+    6: ANIMAL
+    7: Hunting Party (Half-Blood Picts)
+    8: GIANT
+    9: ANIMAL
+    10: NATURAL
+    11: ANIMAL
+    12: Hunting Party (Half-Blood Picts)
+    13: ANIMAL
+    14: GIANT
+    15: NATURAL
+    16: MEN
+    17: Black Lotus
+    18: CELESTIAL

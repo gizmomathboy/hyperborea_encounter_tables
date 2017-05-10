@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# dagon_bay
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: UNDEAD
+    5: MYTHICAL
+    6: Light Patrol (degenerates)
+    7: ANIMAL
+    8: Hunting Party (degenerates)
+    9: ANIMAL
+    10: NATURAL
+    11: ANIMAL
+    12: Hunting Party (degenerates)
+    13: MEN
+    14: NATURAL
+    15: PREHISTORIC
+    16: 2d6 fish-men (coastal only)
+    17: ALIEN
+    18: 2d4x10 fish-men (coastal only)

@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# lake_nova
+- dice: 3d6
+  results:
+    3: MEN
+    4: UNDEAD
+    5: Hunting Party (Kimmerians)
+    6: 1 aqua-hydra
+    7: NATURAL
+    8: Hunting Party (Kelts)
+    9: ANIMAL
+    10: NATURAL
+    11: ANIMAL
+    12: NATURAL
+    13: ANIMAL
+    14: Hunting Party (“nobles”)
+    15: GIANT
+    16: 1d2 aqua-hydras
+    17: ALIEN
+    18: CELESTIAL

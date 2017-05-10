@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# tinsaar
+- dice: 3d6
+  results:
+    3: ALIEN
+    4: MEN
+    5: Medium Patrol (Amazons)
+    6: NATURAL
+    7: Light Patrol (mercenaries)
+    8: ANIMAL
+    9: MEN
+    10: NATURAL
+    11: MEN
+    12: Light Patrol (mercenaries)
+    13: NATURAL
+    14: GIANT
+    15: MEN
+    16: ANIMAL
+    17: UNDEAD
+    18: CELESTIAL

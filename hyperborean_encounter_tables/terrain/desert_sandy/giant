@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/desert_sandy
+# giant
+- dice: 3d6
+  results:
+    3: 1d6 giant wolf spiders
+    4: 1d6 giant ticks
+    5: 1d4 giant black widows
+    6: 1d4+1 giant crab spiders
+    7: 1 giant asp
+    8: 1d2 giant stag beetles
+    9: 2d4 giant chameleons
+    10: 3d4 giant black centipedes
+    11: 3d6 giant rats
+    12: 3d6 giant ants
+    13: 1 giant tuatara (night only)
+    14: 1d6 giant bees
+    15: 1 giant cobra
+    16: 1d6 giant scorpions
+    17: 1d6 giant ogre-faced spiders
+    18: 1d6 giant trapdoor spiders

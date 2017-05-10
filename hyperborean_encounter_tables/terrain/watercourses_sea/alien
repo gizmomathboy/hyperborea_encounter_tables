@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/watercourses_sea
+# alien
+- dice: 3d6
+  results:
+    3: 1 air elemental (class 1d3)
+    4: 1d4+1 Great Race
+    5: 1 giant octopus
+    6: 1 shoggoth
+    7: 1d8 elder things
+    8: 1d4 trolls (coastal only)
+    9: 1d6 night-gaunts
+    10: 2d4x10 fish-men
+    11: 1d6x10 lizard-men (coastal only)
+    12: 1d4 gargoyles
+    13: 1d6 crab-men
+    14: 1d2 aqua-hydras
+    15: 1 aerial minion
+    16: 1d4 aboleths
+    17: 1 water elemental (class 1d3)
+    18: 1d3 daemons (class 1d2)

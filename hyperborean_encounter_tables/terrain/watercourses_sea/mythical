@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/watercourses_sea
+# mythical
+- dice: 3d6
+  results:
+    3: 1 water elemental (class 1d3)
+    4: 1 sea serpent
+    5: 1 pegasus (coastal only)
+    6: 1d2 manticores (coastal only)
+    7: 1d6 harpies (coastal only)
+    8: 1d2 griffins (coastal only)
+    9: 1d4 gargoyles
+    10: 3d6 stirges (coastal only)
+    11: 1d4 narwhales
+    12: 1d6 night-gaunts
+    13: 1 hippogriff (coastal only)
+    14: 1d4 trolls (coastal only)
+    15: 1d2 aqua-hydras
+    16: 1 giant octopus
+    17: 1 colossal squid
+    18: 1d3 daemons (class 1d2)

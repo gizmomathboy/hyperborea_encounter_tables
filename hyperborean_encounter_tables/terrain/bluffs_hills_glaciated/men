@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/bluffs_hills_glaciated
+# men
+- dice: 3d6
+  results:
+    3: Necromancer
+    4: Hermit
+    5: NPC Party
+    6: Druid
+    7: Cleric
+    8: Ranger
+    9: Barbarian
+    10: Scout
+    11: 1d6 wild berserkers
+    12: Fighter
+    13: Shaman
+    14: Berserker
+    15: Warlock
+    16: Witch
+    17: Monk
+    18: Bard

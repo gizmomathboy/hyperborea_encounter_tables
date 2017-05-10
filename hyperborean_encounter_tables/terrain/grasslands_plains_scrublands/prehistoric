@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/grasslands_plains_scrublands
+# prehistoric
+- dice: 3d6
+  results:
+    3: 2d4 carnivorous apes
+    4: 2d4 ground sloths
+    5: 3d10 giant hyaenas
+    6: 1 archaeopteryx
+    7: 1d10 giant bats (night only)
+    8: 2d6 giant elk
+    9: 1d6 lizard-men
+    10: 6d6 ape-men
+    11: 1d6 cave-men
+    12: 3d6 giant rats
+    13: 1d6 giant ferrets
+    14: 1 pterodactyl
+    15: 1d6+6 dire wolves
+    16: 1 woolly mammoth
+    17: 1d4 sabre-tooth tigers
+    18: 1 woolly mammoth superior

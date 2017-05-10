@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/mountains
+# men
+- dice: 3d6
+  results:
+    3: 1 werewolf (human form)
+    4: Pilgrims
+    5: Hermit
+    6: Witch
+    7: Shaman
+    8: Ranger
+    9: Fighter
+    10: 1d10x10 bandits
+    11: Scout
+    12: Barbarian
+    13: 4d10 wild berserkers
+    14: Berserker
+    15: Druid
+    16: Prospector
+    17: NPC Party
+    18: Monk

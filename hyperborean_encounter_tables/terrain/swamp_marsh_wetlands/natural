@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/swamp_marsh_wetlands
+# natural
+- dice: 3d6
+  results:
+    3: Black Lotus
+    4: Plague
+    5: Army Ants
+    6: Sinkhole
+    7: Fog Bank
+    8: Cloudburst
+    9: Fever
+    10: Insect Swarm
+    11: Vermin
+    12: Lost
+    13: Quicksand
+    14: Thunderstorm
+    15: Poison Gas
+    16: Smoky Lotus
+    17: Violet Lotus
+    18: Earthquake

@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/desert_steppe
+# natural
+- dice: 3d6
+  results:
+    3: Earthquake
+    4: Tornado
+    5: Flash Flood
+    6: Heat Wave
+    7: Thunderstorm
+    8: Heatstroke
+    9: Insect Swarm
+    10: Vermin
+    11: Lost
+    12: Fever
+    13: Oasis
+    14: Frostbite
+    15: Deep Freeze
+    16: Windstorm
+    17: Wildfire
+    18: White-Speckled Blue Lotus

@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# khromarium
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: UNDEAD
+    5: MEN
+    6: Medium Patrol (city mercenaries)
+    7: ANIMAL
+    8: MEN
+    9: Light Patrol (city mercenaries)
+    10: MEN
+    11: NATURAL
+    12: ANIMAL
+    13: Light Patrol (city mercenaries)
+    14: GIANT
+    15: MEN
+    16: PREHISTORIC
+    17: MYTHICAL
+    18: ALIEN

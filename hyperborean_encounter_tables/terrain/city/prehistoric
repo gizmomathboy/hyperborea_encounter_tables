@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/city
+# prehistoric
+- dice: 3d6
+  results:
+    3: 1d6 giant wolf spiders
+    4: 1d4+1 giant crab spiders
+    5: 1d6 giant bees
+    6: 3d4 giant black centipedes
+    7: 1 pterodactyl
+    8: 1d6 giant ferrets
+    9: 3d6 giant rats
+    10: 1 aurochs (domesticated)
+    11: 1d6 cave-men
+    12: 1 woolly mammoth (domesticated)
+    13: 3d4 bird-men
+    14: 1 giant chameleon
+    15: 2d4 giant pink centipedes
+    16: 1 archaeopteryx
+    17: 1d6 giant trapdoor spiders
+    18: 1 snake-man (level 1d12 necromancer)

@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/forest
+# men
+- dice: 3d6
+  results:
+    3: 2d4 werewolves (human form)
+    4: Bard
+    5: NPC Party
+    6: Witch
+    7: Berserker
+    8: 4d10 wild berserkers
+    9: Ranger
+    10: 1d10x10 bandits
+    11: Scout
+    12: Fighter
+    13: Barbarian
+    14: Druid
+    15: Pilgrims
+    16: Magician
+    17: Hermit
+    18: Illusionist

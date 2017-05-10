@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/town_village
+# mythical
+- dice: 3d6
+  results:
+    3: 1d3 daemons (class 1d3)
+    4: 1 ghul (desert only)
+    5: 1 archaeopteryx
+    6: 1d6 giant wolf spiders (evil)
+    7: 1 wyvern
+    8: 1d4 gargoyles
+    9: 1 cockatrice
+    10: 1 giant weasel (evil, night only)
+    11: 3d6 stirges
+    12: 1d6 night-gaunts
+    13: 1 harpy
+    14: 1d2 griffins
+    15: 1 swine daemon
+    16: 1 succubus
+    17: 1d2 lamiae (desert only)
+    18: 1 giant octopus (coastal only)

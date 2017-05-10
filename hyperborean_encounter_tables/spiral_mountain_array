@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# spiral_mountain_array
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: MEN
+    5: GIANT
+    6: NATURAL
+    7: MYTHICAL
+    8: ALIEN
+    9: GIANT
+    10: NATURAL
+    11: ANIMAL
+    12: PREHISTORIC
+    13: ALIEN
+    14: UNDEAD
+    15: 2d4 carnivorous apes (winged)
+    16: ANIMAL
+    17: UNDEAD
+    18: CELESTIAL

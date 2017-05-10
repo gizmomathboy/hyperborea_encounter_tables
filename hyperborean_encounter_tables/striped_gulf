@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# striped_gulf
+- dice: 3d6
+  results:
+    3: 3d6x10 crab-men
+    4: War Party (Esquimaux)
+    5: 1d6 crab-men
+    6: GIANT
+    7: 1d4 giant crabs
+    8: Hunting Party (Esquimaux)
+    9: ANIMAL
+    10: NATURAL
+    11: ANIMAL
+    12: NATURAL
+    13: Hunting Party (crab-kin)
+    14: 1d6 crab-men
+    15: 4d4 giant crabs
+    16: War Party (crab-kin)
+    17: 1 monstrous crab
+    18: CELESTIAL

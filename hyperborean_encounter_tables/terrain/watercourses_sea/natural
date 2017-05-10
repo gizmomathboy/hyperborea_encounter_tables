@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/watercourses_sea
+# natural
+- dice: 3d6
+  results:
+    3: Hurricane
+    4: Hailstorm
+    5: Ghost Ship
+    6: Snowstorm
+    7: Vermin
+    8: Becalmed
+    9: Fever
+    10: Fog Bank
+    11: Lost
+    12: Cloudburst
+    13: Sleet Storm
+    14: Iceberg
+    15: Thunderstorm
+    16: Whirlpool
+    17: Waterspout
+    18: Plague

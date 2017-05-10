@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# gal_city
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: ANIMAL
+    5: Medium Patrol (Kelts)
+    6: GIANT
+    7: ANIMAL
+    8: NATURAL
+    9: Light Patrol (Kelts)
+    10: NATURAL
+    11: MEN
+    12: ANIMAL
+    13: MEN
+    14: Light Patrol (Kelts)
+    15: NATURAL
+    16: MEN
+    17: MYTHICAL
+    18: UNDEAD

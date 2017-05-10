@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/watercourses_lakes_and_rivers
+# alien
+- dice: 3d6
+  results:
+    3: 1 aboleth
+    4: 1 water elemental (class 1d3)
+    5: 1 aerial minion
+    6: 1d2 nagas
+    7: 1 behir
+    8: 1d4 gargoyles
+    9: 1 giant weasel (evil, night only)
+    10: 1d6x10 lizard-men
+    11: 3d4 bird-men
+    12: 1d6 night-gaunts
+    13: 1 black pudding
+    14: 1d6 giant phase spiders
+    15: 1 aqua-hydra
+    16: 1 will-o’-wisp (night only)
+    17: 1 colour out of space (night only)
+    18: 1d3 daemons (class 1d2)

@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# isles_of_thur
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: ANIMAL
+    5: MYTHICAL
+    6: ANIMAL
+    7: Light Patrol (Thurssonns)
+    8: NATURAL
+    9: Hunting Party (Thurssonns)
+    10: ANIMAL
+    11: NATURAL
+    12: ANIMAL
+    13: MEN
+    14: GIANT
+    15: NATURAL
+    16: Medium Patrol (Thurssonns)
+    17: NATURAL
+    18: UNDEAD

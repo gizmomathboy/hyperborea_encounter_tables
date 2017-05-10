@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/desert_sandy
+# animal
+- dice: 3d6
+  results:
+    3: 1 cobra
+    4: 2d4 hyenas
+    5: 3d10 vipers
+    6: 5d10 rats
+    7: 2d4 wolves
+    8: 1 rattlesnake
+    9: 1d6 boars
+    10: 5d6 dromedary camels
+    11: 5d6 red deer
+    12: 5d6 bactrian camels
+    13: 2d8 wild dogs
+    14: 1 asp
+    15: 1d6 falcons
+    16: 1d100 bats (night only)
+    17: 1 mountain lion
+    18: 1d6 lions

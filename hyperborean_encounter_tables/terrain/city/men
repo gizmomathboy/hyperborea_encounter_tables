@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/city
+# men
+- dice: 3d6
+  results:
+    3: Illusionist
+    4: Legerdemainist
+    5: Cleric
+    6: Assassin
+    7: NPC Party
+    8: 2d6 bandits (thugs)
+    9: Fighter
+    10: Drunks
+    11: Beggars
+    12: Thief
+    13: Harlots
+    14: Priest
+    15: Magician
+    16: Warlock
+    17: 2d6 wererats (human form)
+    18: Pyromancer

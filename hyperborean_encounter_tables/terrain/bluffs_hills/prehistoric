@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/bluffs_hills
+# prehistoric
+- dice: 3d6
+  results:
+    3: 1 woolly mammoth superior
+    4: 1d4 cave bears
+    5: 1 sabre-tooth tiger
+    6: 1d2 albino apes (night only)
+    7: 1d6 mountain apes
+    8: 1 woolly mammoth
+    9: 1d2 giant elk
+    10: 1d6 ape-men
+    11: 1d6 cave-men
+    12: 1d10x10 giant bats (night only)
+    13: 1 pterodactyl
+    14: 1d6+6 dire wolves
+    15: 1 giant weasel (night only)
+    16: 2d6 giant hyaenas
+    17: 1 ground sloth
+    18: 1 archaeopteryx

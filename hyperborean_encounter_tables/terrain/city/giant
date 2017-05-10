@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/city
+# giant
+- dice: 3d6
+  results:
+    3: 1d6 giant wolf spiders
+    4: 1d4 giant black widows
+    5: 1d10 giant bats (night only)
+    6: 1 giant ant
+    7: 1d6 giant fire beetles (night only)
+    8: 1 giant weasel (night only)
+    9: 2d4 giant pink centipedes
+    10: 3d6 giant rats
+    11: 3d4 giant black centipedes
+    12: 1 woolly mammoth (domesticated)
+    13: 1 giant chameleon
+    14: 1d6 giant ferrets
+    15: 1d6 giant bees
+    16: 1d4+1 giant crab spiders
+    17: 1d6 giant trapdoor spiders
+    18: 1d6 giant phase spiders

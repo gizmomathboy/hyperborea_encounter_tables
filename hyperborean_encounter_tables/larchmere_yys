@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# larchmere_yys
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: MEN
+    5: 2d6 bandits (Dagonite raiders)
+    6: NATURAL
+    7: ANIMAL
+    8: MEN
+    9: Light Patrol (Apollonians)
+    10: MEN
+    11: NATURAL
+    12: ANIMAL
+    13: NATURAL
+    14: Light Patrol (Apollonians)
+    15: NATURAL
+    16: MEN
+    17: ANIMAL
+    18: GIANT

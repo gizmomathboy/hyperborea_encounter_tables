@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/city
+# mythical
+- dice: 3d6
+  results:
+    3: 1 giant octopus (coastal only)
+    4: 1d2 lamiae (desert only)
+    5: 1 succubus
+    6: 1 archaeopteryx
+    7: 1 wyvern
+    8: 1d4 gargoyles
+    9: 1 cockatrice
+    10: 3d6 stirges
+    11: 1 giant weasel (evil, night only)
+    12: 1d6 night-gaunts
+    13: 1 harpy
+    14: 1d6 giant wolf spiders (evil)
+    15: 1d2 griffins
+    16: 1 swine daemon
+    17: 1 ghul (desert only)
+    18: 1d3 daemons (class 1d3)

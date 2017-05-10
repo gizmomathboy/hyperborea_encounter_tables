@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/mountains_glaciated
+# animal
+- dice: 3d6
+  results:
+    3: 1d2 giant wolverines
+    4: 1d6 archaeopteryges (volcanic only)
+    5: 1d6 giant toads (white)
+    6: 2d4 mountain lions
+    7: 1d6 dire wolves
+    8: 1 brown bear
+    9: 1d2 wolverines
+    10: 2d4 wolves
+    11: 1 black bear
+    12: 1 giant weasel (night only)
+    13: 1d6 pterodactyls (volcanic only)
+    14: 1d6 giant ferrets
+    15: 1d10x10 giant bats (night only)
+    16: 1d4 polar bears
+    17: 1d4+6 albino apes (night only)
+    18: 1d4 cave bears

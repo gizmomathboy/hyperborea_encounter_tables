@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# minotaurios
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: ANIMAL
+    5: GIANT
+    6: MYTHICAL
+    7: 2d4 minotaurs
+    8: GIANT
+    9: NATURAL
+    10: ANIMAL
+    11: NATURAL
+    12: ANIMAL
+    13: 1 minotaur
+    14: NATURAL
+    15: ANIMAL
+    16: MYTHICAL
+    17: (1d4+1)x10 minotaurs
+    18: MYTHICAL

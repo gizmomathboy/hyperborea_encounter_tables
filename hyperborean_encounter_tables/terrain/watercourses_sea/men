@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/watercourses_sea
+# men
+- dice: 3d6
+  results:
+    3: Treasure Ship
+    4: Magician (on cog)
+    5: Ixian Slavers
+    6: Pilgrims (on carrack)
+    7: False Merchant Ship
+    8: NPC Party (on knarr)
+    9: Merchants (on carrack)
+    10: Fighter (on cog)
+    11: 1d10x10 bandits (pirates on carrack)
+    12: Explorers
+    13: Warship
+    14: Cleric (on cog)
+    15: Berserk Raiders
+    16: Warlock (on cog)
+    17: Illusionist (on knarr)
+    18: Pyromancer (on cog)

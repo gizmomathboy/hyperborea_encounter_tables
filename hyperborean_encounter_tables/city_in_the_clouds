@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# city_in_the_clouds
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: ALIEN
+    5: UNDEAD
+    6: MYTHICAL
+    7: MEN
+    8: GIANT
+    9: Medium Patrol (Amazons)
+    10: NATURAL
+    11: MEN
+    12: ANIMAL
+    13: NATURAL
+    14: Medium Patrol (Amazons)
+    15: ANIMAL
+    16: Medium Patrol (Amazons)
+    17: ALIEN
+    18: CELESTIAL

@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# black_forest_inlet
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: 1d2 nagas
+    5: 1d6 wyverns
+    6: 1 hippogriff
+    7: 1d6 harpies
+    8: 1d6 giant weasels (night only)
+    9: 3d6 stirges
+    10: NATURAL
+    11: ANIMAL
+    12: 1d6 wild berserkers (naked)
+    13: 1d4+1 owl bears
+    14: 1d2 griffins
+    15: 4d10 wild berserkers (naked)
+    16: 1d6 cockatrices
+    17: 1 chimaera
+    18: 1d2 lamiae

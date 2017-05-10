@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/watercourses_lakes_and_rivers
+# prehistoric
+- dice: 3d6
+  results:
+    3: 1 giant crocodile
+    4: 1d4 giant leeches
+    5: 2d6 giant frogs
+    6: 1 water snake
+    7: 3d4 giant black centipedes
+    8: 1d6 giant ferrets
+    9: 1 giant weasel (night only)
+    10: 1d6 cave-men (in canoe)
+    11: 1d6x10 lizard-men
+    12: 1 pterodactyl
+    13: 3d6 giant rats
+    14: 1 giant tuatara (night only)
+    15: 1d10 giant bats (night only)
+    16: 2d4 giant pink centipedes
+    17: 1 archaeopteryx
+    18: 1 monstrous crab

@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/grasslands_plains_scrublands
+# natural
+- dice: 3d6
+  results:
+    3: Earthquake
+    4: White-Speckled Blue Lotus
+    5: Blizzard
+    6: Sinkhole
+    7: Hailstorm
+    8: Thunderstorm
+    9: Fog Bank
+    10: Vermin
+    11: Lost
+    12: Fever
+    13: Insect Swarm
+    14: Sleet Storm
+    15: Snowstorm
+    16: Violet Lotus
+    17: Tornado
+    18: Wildfire

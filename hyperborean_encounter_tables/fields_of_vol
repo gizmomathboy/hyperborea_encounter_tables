@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# fields_of_vol
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: 1d6+6 woolly mammoths
+    5: MEN
+    6: Light Cavalry (Kimmerians)
+    7: 5d6 wild horses
+    8: 1d6 boars
+    9: Hunting Party (Kimmeri-Kelts)
+    10: NATURAL
+    11: ANIMAL
+    12: 5d6 red deer
+    13: 1d6 ape-men
+    14: Light Cavalry (Kimmeri-Kelts)
+    15: 4d6 aurochs
+    16: 2d10x10 red deer
+    17: 2d6 thew wagons
+    18: 6d6 ape-men

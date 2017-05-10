@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/mountains
+# natural
+- dice: 3d6
+  results:
+    3: Russet Lotus (volcanic only)
+    4: Lava Eruption (volcanic only)
+    5: Blizzard
+    6: Poison Gas (volcanic only)
+    7: Thunderstorm
+    8: Box Canyon
+    9: Fever
+    10: Lost
+    11: Vermin
+    12: Rockslide
+    13: Geyser (volcanic only)
+    14: Flash Flood
+    15: Snowstorm
+    16: Avalanche
+    17: Ash Eruption (volcanic only)
+    18: Earthquake

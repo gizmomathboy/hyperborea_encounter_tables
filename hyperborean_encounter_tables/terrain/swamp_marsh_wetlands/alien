@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/swamp_marsh_wetlands
+# alien
+- dice: 3d6
+  results:
+    3: 1d2 nagas
+    4: 1 will-o’-wisp (night only)
+    5: 3d4 lotus women
+    6: 1 black pudding
+    7: 2d12 tree-men
+    8: 1 shambling mound
+    9: 2d6 thew wagons
+    10: 1 green slime
+    11: 1d6x10 lizard-men
+    12: 1d4 rust monsters
+    13: 1d6 giant weasels (evil, night only)
+    14: 1 sabre-tooth tiger superior
+    15: 1d6 giant phase spiders
+    16: 1 swine daemon
+    17: 1d2 behirs
+    18: 1 colour out of space (night only)

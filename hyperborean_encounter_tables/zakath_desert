@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# zakath_desert
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: ALIEN
+    5: Light Cavalry (mercenaries)
+    6: Prospector
+    7: NATURAL
+    8: Hunting Party (nomads)
+    9: GIANT
+    10: ANIMAL
+    11: NATURAL
+    12: ANIMAL
+    13: Hunting Party (mercenaries)
+    14: GIANT
+    15: Light Cavalry (nomads)
+    16: MEN
+    17: UNDEAD
+    18: ALIEN

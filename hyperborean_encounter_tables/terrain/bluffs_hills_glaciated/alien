@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/bluffs_hills_glaciated
+# alien
+- dice: 3d6
+  results:
+    3: 1 albino ape superior (night only)
+    4: 3d6 men of Leng
+    5: 1d4 fomorians
+    6: 6d6 abominable snow-men
+    7: 1d4+6 albino apes (night only)
+    8: 1 tentacular horror
+    9: 1d6 hyaena-men
+    10: 6d6 cave-men
+    11: 1d6 ape-men
+    12: 1d6 mountain apes
+    13: 1d6 blink dogs
+    14: 1 gibbering mouther
+    15: 1d4 gargoyles
+    16: 1d3 spore-men
+    17: 1d4 ice salamanders
+    18: 1d4+1 Great Race

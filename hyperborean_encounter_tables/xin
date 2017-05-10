@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# xin
+- dice: 3d6
+  results:
+    3: CELESTIAL
+    4: 1 banshee (night only)
+    5: Aurora
+    6: ALIEN
+    7: UNDEAD
+    8: ALIEN
+    9: GIANT
+    10: NATURAL
+    11: ANIMAL
+    12: NATURAL
+    13: PREHISTORIC
+    14: Monk
+    15: Aurora
+    16: Monk
+    17: 1 banshee (night only)
+    18: CELESTIAL

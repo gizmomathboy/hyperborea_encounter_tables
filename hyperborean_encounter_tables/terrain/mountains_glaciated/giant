@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/mountains_glaciated
+# giant
+- dice: 3d6
+  results:
+    3: 1d2 fire giants (volcanic only)
+    4: 1 cyclops
+    5: 1 giant python (white-furred)
+    6: 1d2 giant wolverines
+    7: 1d10x10 giant bats (night only)
+    8: 1d6 dire wolves
+    9: 1d6 giant fire beetles (volcanic only)
+    10: 1d6 giant toads (white)
+    11: 1 giant weasel (night only)
+    12: 1d6 mountain apes
+    13: 1d6 giant ferrets
+    14: 1d4+6 albino apes (night only)
+    15: 1d4 cave bears
+    16: 6d6 abominable snow-men
+    17: 2d6 fomorians
+    18: 2d10 frost giants

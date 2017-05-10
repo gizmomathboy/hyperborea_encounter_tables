@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/location
+# valley_of_mists
+- dice: 3d6
+  results:
+    3: UNDEAD
+    4: NATURAL
+    5: MYTHICAL
+    6: UNDEAD
+    7: GIANT
+    8: ALIEN
+    9: ANIMAL
+    10: NATURAL
+    11: ANIMAL
+    12: NATURAL
+    13: ALIEN
+    14: NATURAL
+    15: ANIMAL
+    16: ALIEN
+    17: PREHISTORIC
+    18: CELESTIAL

@@ -1,0 +1,20 @@
+# hyperborean_encounter_tables/terrain/bluffs_hills
+# celestial
+- dice: 3d6
+  results:
+    3: Uncanny Vertigo
+    4: Weird Vibrations
+    5: Comet
+    6: Star Stone
+    7: Meteor Shower
+    8: Stellar Conjunction
+    9: Fortean Fall
+    10: Aurora
+    11: Falling Star
+    12: Lights in the Sky
+    13: Mocking Star
+    14: Lunar Eclipse
+    15: Planetary Alignment
+    16: Shining Mist
+    17: Voice of Doom
+    18: Wind from the Gulf
