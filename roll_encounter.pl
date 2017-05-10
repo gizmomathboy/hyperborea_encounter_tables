@@ -14,11 +14,16 @@ our $base = q(/media/jkline/moredata/jkline/blackevil/dnd/astonishing-swordsmen-
 
 our $data = get_data();
 
+#say $data->{D}->@*;
+#exit(0);
+
 my $letter = prompt 'Choose location starting letter (ABCDEFGHIKLMNOPRSTUVWXYZ):';
 
-my @locations = sort keys $data->{$letter}->%*;
+#my @locations = sort keys $data->{$letter}->@*;
+my $locations_ref = $data->{$letter}->@*;
 
-my $location = prompt 'Select location: ', -menu => \@locations, '>';
+#my $location = prompt 'Select location: ', -menu => \@locations, '>';
+my $location = prompt 'Select location: ', -menu => $locations_ref, '>';
 
 my @terrains = $data->{$letter}{$location}{terrain};
 
