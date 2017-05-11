@@ -18,8 +18,8 @@ get_tokens();
 
 our $dispatch;
 create_dispatch_table();
-
-exit(0);
+#p $dispatch;
+#exit(0);
 
 
 #my @locations = map { keys $_->%* } $data->{D}->@*;
@@ -68,17 +68,13 @@ sub get_tokens {
 }
 ###
 sub create_dispatch_table {
-  for my $regex_token ( $tokens_ref->@* ) {
-    my $regex = $regex_token->[0];
-    my $token = $regex_token->[1];
-    say qq($regex -> $token);
-    $dispatch->{
-      sub_table     => \&sub_table( $args_ref),
-      roll          => \&roll( $args_ref),
-      hunting_party => \&hunting_party($args_ref),
-      };
-  }
-};
+  #say q(create_dispatch_table);
+   $dispatch = {
+     'sub_table'     => \&sub_table,
+     'roll'          => \&roll,
+     'hunting_party' => \&hunting_party,
+   };
+}
 ###
 sub get_encounter {
   my ($args_ref) = @_;
@@ -95,29 +91,44 @@ sub get_encounter {
 
   my $result = $hub->load_table_file($file_path)->roll_table()->as_block_text;
 
-  $args_ref->{results} = $results;
+  say qq(get_encounter result: $result);
+
+  $args_ref->{result} = $result;
+  $args_ref->{hub}    = $hub;
 
   process_results($args_ref); 
 }
 ###
 sub process_results {
   my ($args_ref) = @_;
+
   my $result = $args_ref->{result};
 
   for my $regex_token ( $tokens_ref->@* ) {
     my $regex = qr/$regex_token->[0]/;
+    my $token = $regex_token->[1];
+
+    #say qq(  regex: $regex, token: $token);
 
     if ( $result =~ m/$regex/ ) {
-      $dispatch->{ $regex_token->[1] };
+      $dispatch->{ $token }->($args_ref);
+      last;
     }
   }
-  say $result;
+  say qq(no matches: $result);
 }
 ###
 sub sub_table   {
   my ($args_ref) = @_;
-  my $table = lc $args_ref->{result};
+
+  say qq(  in sub_table);
+
+  my $table   = lc $args_ref->{result};
   my $terrain = $args_ref->{terrain};
+  my $hub     = $args_ref->{hub};
+
+  say qq(    table: $table, terrain: $terrain);
+
   my $file_path = qq($base/hyperborean_encounter_tables/terrain/$terrain/$table);
   my $result = $hub->load_table_file($file_path)->roll_table()->as_block_text;
   $args_ref->{result} = $result;
@@ -125,15 +136,30 @@ sub sub_table   {
 }
 ###
 sub roll {
-    my @parts = split(/\s+/, $result);
-    my $roll = $hub->roll_dice($parts[0]);
-    $parts[0] = $roll;
-    $result = join(' ', @parts);
+  my ($args_ref ) = @_;
+  say qq(  in roll);
+
+  my $result = $args_ref->{result};
+  my $hub    = $args_ref->{hub};
+
+  say qq(    result: $result);
+
+  my @parts = split(/\s+/, $result);
+  my $roll = $hub->roll_dice($parts[0]);
+  $parts[0] = $roll;
+  $result = join(' ', @parts);
+  say $result;
 }
 ###
 sub hunting_party {
   my ($args_ref) = @_;
+  say qq(  in hunting_party);
+  say join(',', keys $args_ref->%*);
+
+  my $hub = $args_ref->{hub};
+
   my $file_path = qq($base/hyperborean_encounter_tables/appendix_tables/hunting_table);
   my $result = $hub->load_table_file($file_path)->roll_table()->as_block_text;
+
   say $result;
 }
