@@ -14,25 +14,25 @@ our $base = q(/media/jkline/moredata/jkline/blackevil/dnd/astonishing-swordsmen-
 
 our $data = get_data();
 
-#say $data->{D}->@*;
+#my @locations = map { keys $_->%* } $data->{D}->@*;
 #exit(0);
 
 my $letter = prompt 'Choose location starting letter (ABCDEFGHIKLMNOPRSTUVWXYZ):';
 
-#my @locations = sort keys $data->{$letter}->@*;
-my $locations_ref = $data->{$letter}->@*;
+my @locations = sort keys $data->{$letter}->%*;
+#my $locations_ref = $data->{$letter}->@*;
 
-#my $location = prompt 'Select location: ', -menu => \@locations, '>';
-my $location = prompt 'Select location: ', -menu => $locations_ref, '>';
+my $location = prompt 'Select location: ', -number, -menu => \@locations, '>';
+#my $location = prompt 'Select location: ', -menu => $locations_ref, '>';
 
-my @terrains = $data->{$letter}{$location}{terrain};
+my $terrains_aref = $data->{$letter}{$location}{terrain};
 
 my $terrain;
-if ( $#terrains > 0 ) {
-  $terrain = prompt 'Select terrain type ', -menu => $terrains[0], '>';
+if ( $terrains_aref->$#* > 0 ) {
+  $terrain = prompt 'Select terrain type ', -number, -menu => $terrains_aref, '>';
 }
 else {
-  $terrain = $terrains[0][0];
+  $terrain = $terrains_aref->[0][0];
 }
 
 my $number = prompt 'Select number of encounters:  ', -num;
