@@ -1,6 +1,6 @@
 - 
-  - "\A[a-z]+\Z"
-  - "plain"
+  - "\A[A-Z]+\Z"
+  - "sub_table"
 - 
   - "\dd\d"
   - "roll" 
