@@ -51,7 +51,7 @@ A:
       - bluffs_hills
     file: atlantica
 B:
-  - Barrier Mountains:
+  Barrier Mountains:
       terrain:
         - mountains
         - mountains_glaciated
@@ -59,7 +59,7 @@ B:
         - watercourse_lakes_rivers
         - town_village
       file: barrier_mountains
-  - Black Forest Inlet:
+  Black Forest Inlet:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -76,7 +76,7 @@ B:
         - city
         - town_village
       file: black_forest_inlet
-  - Black River Yleil:
+  Black River Yleil:
       terrain:
         - desert_sandy
         - mountains
@@ -84,7 +84,7 @@ B:
         - tundra
         - watercourse_lakes_rivers
       file: black_river_yleil
-  - Black Waste:
+  Black Waste:
       terrain:
         - desert_sandy
         - desert_steppe
@@ -93,7 +93,7 @@ B:
         - mountains
         - watercourse_lakes_rivers
       file: black_waste
-  - Brigand's Bay:
+  Brigand's Bay:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -110,7 +110,7 @@ B:
         - city
         - town_village
       file: brigands_bay
-  - Broken Coast:
+  Broken Coast:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -127,7 +127,7 @@ B:
         - city
         - town_village
       file: broken_coast
-  - Cape Calencia:
+  Cape Calencia:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -145,7 +145,7 @@ B:
         - town_village
       file: cape_calencia
 C:
-  - City in the Clouds:
+  City in the Clouds:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -162,7 +162,7 @@ C:
         - city
         - town_village
       file: city_in_the_clouds
-  - Crab Archipelago:
+  Crab Archipelago:
       terrain:
         - bluffs_hills
         - grasslands_plains_scrublands
@@ -171,7 +171,7 @@ C:
         - watercourse_sea
       file: crab_archipelago
 D:
-  - Dagon Bay:
+  Dagon Bay:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -188,7 +188,7 @@ D:
         - city
         - town_village
       file: dagon_bay
-  - Death Valley:
+  Death Valley:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -205,7 +205,7 @@ D:
         - city
         - town_village
       file: death_valley
-  - Diamond Desert:
+  Diamond Desert:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -222,7 +222,7 @@ D:
         - city
         - town_village
       file: diamond_desert
-  - Dunwich:
+  Dunwich:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -240,7 +240,7 @@ D:
         - town_village
       file: dunwich
 E:
-  - Erikssgard:
+  Erikssgard:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -257,7 +257,7 @@ E:
         - city
         - town_village
       file: erikssgard
-  - Esquimaux Bay:
+  Esquimaux Bay:
       terrain:
         - bluffs_hills
         - desert_steppe
@@ -267,7 +267,7 @@ E:
         - town_village
       file: esquimaux_bay
 F:
-  - Fazzuum:
+  Fazzuum:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -284,7 +284,7 @@ F:
         - city
         - town_village
       file: fazzuum
-  - Fidib:
+  Fidib:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -301,7 +301,7 @@ F:
         - city
         - town_village
       file: fidib
-  - Fields of Vol:
+  Fields of Vol:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -318,7 +318,7 @@ F:
         - city
         - town_village
       file: fields_of_vol
-  - Floating Island of Paradoxon:
+  Floating Island of Paradoxon:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -336,7 +336,7 @@ F:
         - town_village
       file: floating_island_of_paradoxon
 G:
-  - Gal City:
+  Gal City:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -353,7 +353,7 @@ G:
         - city
         - town_village
       file: gal_city
-  - Gal Hills:
+  Gal Hills:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -370,7 +370,7 @@ G:
         - city
         - town_village
       file: gal_hills
-  - Gibbering Fields:
+  Gibbering Fields:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -387,7 +387,7 @@ G:
         - city
         - town_village
       file: gibbering_fields
-  - Great Obelisk:
+  Great Obelisk:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -405,7 +405,7 @@ G:
         - town_village
       file: great_obelisk
 H:
-  - Hyperborean Sea:
+  Hyperborean Sea:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -423,7 +423,7 @@ H:
         - town_village
       file: hyperborean_sea
 I:
-  - Ice Lake:
+  Ice Lake:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -440,7 +440,7 @@ I:
         - city
         - town_village
       file: ice_lake
-  - Islands of the Ape-Men:
+  Islands of the Ape-Men:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -457,7 +457,7 @@ I:
         - city
         - town_village
       file: islands_of_the_ape_men
-  - Isle of Ghul:
+  Isle of Ghul:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -474,7 +474,7 @@ I:
         - city
         - town_village
       file: isle_of_ghul
-  - Isles of Thur:
+  Isles of Thur:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -491,7 +491,7 @@ I:
         - city
         - town_village
       file: isles_of_thur
-  - IX:
+  IX:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -509,7 +509,7 @@ I:
         - town_village
       file: ix
 K:
-  - Khromarium:
+  Khromarium:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -526,7 +526,7 @@ K:
         - city
         - town_village
       file: khromarium
-  - Kimmerian Steppe:
+  Kimmerian Steppe:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -543,7 +543,7 @@ K:
         - city
         - town_village
       file: kimmerian_steppe
-  - Kitasion Archipelago:
+  Kitasion Archipelago:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -560,7 +560,7 @@ K:
         - city
         - town_village
       file: kitasion_archipelago
-  - Kor:
+  Kor:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -577,7 +577,7 @@ K:
         - city
         - town_village
       file: kor
-  - Krimmea:
+  Krimmea:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -595,7 +595,7 @@ K:
         - town_village
       file: krimmea
 L:
-  - Lake Nova:
+  Lake Nova:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -612,7 +612,7 @@ L:
         - city
         - town_village
       file: lake_nova
-  - Larchmere Yys:
+  Larchmere Yys:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -629,7 +629,7 @@ L:
         - city
         - town_village
       file: larchmere_yys
-  - Leng Plateau:
+  Leng Plateau:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -646,7 +646,7 @@ L:
         - city
         - town_village
       file: leng_plateau
-  - Lizard Coast:
+  Lizard Coast:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -663,7 +663,7 @@ L:
         - city
         - town_village
       file: lizard_coast
-  - Lug Wasteland:
+  Lug Wasteland:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -681,7 +681,7 @@ L:
         - town_village
       file: lug_wasteland
 M:
-  - Minotaurios:
+  Minotaurios:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -698,7 +698,7 @@ M:
         - city
         - town_village
       file: minotaurios
-  - Mount Forptycle:
+  Mount Forptycle:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -715,7 +715,7 @@ M:
         - city
         - town_village
       file: mount_forptycle
-  - Mount Vhuurmithadon:
+  Mount Vhuurmithadon:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -732,7 +732,7 @@ M:
         - city
         - town_village
       file: mount_vhuurmithadon
-  - Mount Ymir:
+  Mount Ymir:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -749,7 +749,7 @@ M:
         - city
         - town_village
       file: mount_ymir
-  - Mu Minor:
+  Mu Minor:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -767,7 +767,7 @@ M:
         - town_village
       file: mu_minor
 N:
-  - Narath and Tarath:
+  Narath and Tarath:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -784,7 +784,7 @@ N:
         - city
         - town_village
       file: narath_and_tarath
-  - New Amazonia:
+  New Amazonia:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -801,7 +801,7 @@ N:
         - city
         - town_village
       file: new_amazonia
-  - New Pictland:
+  New Pictland:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -818,7 +818,7 @@ N:
         - city
         - town_village
       file: new_pictland
-  - New Vinland:
+  New Vinland:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -835,7 +835,7 @@ N:
         - city
         - town_village
       file: new_vinland
-  - Nod's Chain:
+  Nod's Chain:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -853,7 +853,7 @@ N:
         - town_village
       file: mods_chain
 O:
-  - Onja Cot:
+  Onja Cot:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -870,7 +870,7 @@ O:
         - city
         - town_village
       file: onja_cot
-  - Orcust:
+  Orcust:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -888,7 +888,7 @@ O:
         - town_village
       file: orcust
 P:
-  - Pandoros:
+  Pandoros:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -905,7 +905,7 @@ P:
         - city
         - town_village
       file: pandoros
-  - Plain of Leng:
+  Plain of Leng:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -922,7 +922,7 @@ P:
         - city
         - town_village
       file: plain_o_leng
-  - Port Greely:
+  Port Greely:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -939,7 +939,7 @@ P:
         - city
         - town_village
       file: port_greely
-  - Port Zangerios:
+  Port Zangerios:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -956,7 +956,7 @@ P:
         - city
         - town_village
       file: port_zangerios
-  - Ptarmigan Rock:
+  Ptarmigan Rock:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -974,7 +974,7 @@ P:
         - town_village
       file: ptarmigan_rock
 R:
-  - Red Desert:
+  Red Desert:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -991,11 +991,11 @@ R:
         - city
         - town_village
       file: red_desert
-  - River Leng:
+  River Leng:
       terrain:
         - watercourse_lakes_rivers
       file: river_leng
-  - River Okeanos:
+  River Okeanos:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -1012,7 +1012,7 @@ R:
         - city
         - town_village
       file: river_okeanos
-  - River Omo:
+  River Omo:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -1029,7 +1029,7 @@ R:
         - city
         - town_village
       file: river_omo
-  - River Vol:
+  River Vol:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -1046,7 +1046,7 @@ R:
         - city
         - town_village
       file: river_vol
-  - River Yys:
+  River Yys:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -1064,7 +1064,7 @@ R:
         - town_village
       file: river_yys
 S:
-  - Savage Boreal Coast:
+  Savage Boreal Coast:
       terrain:
         - bluffs_hills
         - forest
@@ -1076,7 +1076,7 @@ S:
         - watercourse_sea
         - town_village
       file: savage_boreal_coast
-  - Scythium:
+  Scythium:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -1093,7 +1093,7 @@ S:
         - city
         - town_village
       file: scythium
-  - Sharath:
+  Sharath:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -1110,7 +1110,7 @@ S:
         - city
         - town_village
       file: sharath
-  - Skarag Coast:
+  Skarag Coast:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -1127,7 +1127,7 @@ S:
         - city
         - town_village
       file: skarag_coast
-  - Spiral Mountain Array:
+  Spiral Mountain Array:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -1144,7 +1144,7 @@ S:
         - city
         - town_village
       file: spiral_mountain_array
-  - Stonebrook:
+  Stonebrook:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -1161,7 +1161,7 @@ S:
         - city
         - town_village
       file: stonebrook
-  - Striped Gulf:
+  Striped Gulf:
       terrain:
         - forest
         - grasslands_plains_scrublands
@@ -1172,7 +1172,7 @@ S:
         - watercourse_sea
         - town_village
       file: striped_gulf
-  - Swampgate:
+  Swampgate:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -1190,7 +1190,7 @@ S:
         - town_village
       file: swampgate
 T:
-  - Thaumagorga's Teeth:
+  Thaumagorga's Teeth:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -1207,7 +1207,7 @@ T:
         - city
         - town_village
       file: thaumagorgas_teeth
-  - Thorgunna's Island:
+  Thorgunna's Island:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -1224,7 +1224,7 @@ T:
         - city
         - town_village
       file: thorgunnas_island
-  - Tinsaar:
+  Tinsaar:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -1241,7 +1241,7 @@ T:
         - city
         - town_village
       file: tinsaar
-  - Trog Inlet:
+  Trog Inlet:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -1258,7 +1258,7 @@ T:
         - city
         - town_village
       file: trog_inlet
-  - Trogos:
+  Trogos:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -1276,7 +1276,7 @@ T:
         - town_village
       file: trogos
 U:
-  - Ullr's Island:
+  Ullr's Island:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -1294,7 +1294,7 @@ U:
         - town_village
       file: ullrs_island
 V:
-  - Valley of Mists:
+  Valley of Mists:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -1311,7 +1311,7 @@ V:
         - city
         - town_village
       file: valley_of_mists
-  - Vikland:
+  Vikland:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -1329,7 +1329,7 @@ V:
         - town_village
       file: vikland
 W:
-  - Wold Phellora:
+  Wold Phellora:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -1347,7 +1347,7 @@ W:
         - town_village
       file: wold_phellora
 X:
-  - Xenadon:
+  Xenadon:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -1364,7 +1364,7 @@ X:
         - city
         - town_village
       file: xenadon
-  - Xin:
+  Xin:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -1382,7 +1382,7 @@ X:
         - town_village
       file: xin
 Y:
-  - Yithorium:
+  Yithorium:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -1399,7 +1399,7 @@ Y:
         - city
         - town_village
       file: yithorium
-  - Ythaqqa Plateau:
+  Ythaqqa Plateau:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -1417,7 +1417,7 @@ Y:
         - town_village
       file: ythaqqa_plateau
 Z:
-  - Zakath Desert:
+  Zakath Desert:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
@@ -1434,7 +1434,7 @@ Z:
         - city
         - town_village
       file: zakath_desert
-  - Zangerios Islands:
+  Zangerios Islands:
       terrain:
         - bluffs_hills
         - bluffs_hills_glaciated
