@@ -13,6 +13,15 @@ use v5.24;
 our $base = q(/media/jkline/moredata/jkline/blackevil/dnd/astonishing-swordsmen-and-sorcerors-of-hyperborea/resources/encounter-tables);
 
 our $data = get_data();
+our $tokens_ref;
+get_tokens();
+
+say $tokens_ref;
+
+p $tokens_ref;
+
+exit(0);
+
 
 #my @locations = map { keys $_->%* } $data->{D}->@*;
 #exit(0);
@@ -48,6 +57,12 @@ sub get_data {
   my $encounter_file = qq($base/$file);
   my $data = YAML::LoadFile($encounter_file);
   return($data);
+}
+###
+sub get_tokens {
+  my $file = q(encounter_tokens.yaml);
+  my $encounter_file = qq($base/$file);
+  $tokens_ref = YAML::LoadFile($encounter_file);
 }
 ###
 sub get_encounter {
@@ -96,3 +111,5 @@ sub get_encounter {
   }
   say $result;
 }
+
+
