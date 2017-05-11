@@ -1,6 +1,9 @@
 # hyperborean_encounter_tables/appendix_tables
 # hunting_party
+- Hunting party with:
+- 5th level shortbowmen
 - 5d6 0th-level bowmen
+- 3d6 hunting dogs
 - dice: 1d100
   results:
     1-10: shaman/druid
