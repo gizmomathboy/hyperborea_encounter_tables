@@ -16,9 +16,8 @@ our $data = get_data();
 our $tokens_ref;
 get_tokens();
 
-say $tokens_ref;
-
-p $tokens_ref;
+our $dispatch;
+create_dispatch_table();
 
 exit(0);
 
@@ -113,3 +112,10 @@ sub get_encounter {
 }
 
 
+our $tokens_ref;
+our $dispatch;
+
+sub create_dispatch_table {
+  for my $tokens ( $tokens_ref->@* ) {
+  }
+};
