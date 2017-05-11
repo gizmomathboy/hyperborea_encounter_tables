@@ -46,7 +46,10 @@ else {
 my $number = prompt 'Select number of encounters:  ', -num;
 
 for ( 1 .. $number ) {
-  get_encounter($letter, $location, $terrain);
+  get_encounter( { letter   => $letter, 
+                   location => $location, 
+                   terrain  => $terrain,
+                 } );
 }
 
 exit(0);
@@ -70,15 +73,19 @@ sub create_dispatch_table {
     my $token = $regex_token->[1];
     say qq($regex -> $token);
     $dispatch->{
-      plain         => get_encounter($letter, $location, $terrain),
-      roll          => ,
-      hunting_party => ,
+      sub_table     => \&sub_table( $args_ref),
+      roll          => \&roll( $args_ref),
+      hunting_party => \&hunting_party($args_ref),
       };
   }
 };
 ###
 sub get_encounter {
-  my ($letter, $location, $terrain) = @_;
+  my ($args_ref) = @_;
+  #my ($letter, $location, $terrain) = @_;
+  my $letter   = $args_ref->{letter};
+  my $location = $args_ref->{location};
+  my $terrain  = $args_ref->{terrain};
 
   my $hub = Roland::Hub->new();
 
@@ -88,26 +95,45 @@ sub get_encounter {
 
   my $result = $hub->load_table_file($file_path)->roll_table()->as_block_text;
 
-  if ( $result =~ m/\A[a-z]+\Z/ ) {
-  }
-  else {
-    my $table = lc $result;
-    my $file_path = qq($base/hyperborean_encounter_tables/terrain/$terrain/$table);
-    $result = $hub->load_table_file($file_path)->roll_table()->as_block_text;
-  }
+  $args_ref->{results} = $results;
 
-  if ( $result =~ m/\dd\d/ ) {
+  process_results($args_ref); 
+}
+###
+sub process_results {
+  my ($args_ref) = @_;
+  my $result = $args_ref->{result};
+
+  for my $regex_token ( $tokens_ref->@* ) {
+    my $regex = qr/$regex_token->[0]/;
+
+    if ( $result =~ m/$regex/ ) {
+      $dispatch->{ $regex_token->[1] };
+    }
+  }
+  say $result;
+}
+###
+sub sub_table   {
+  my ($args_ref) = @_;
+  my $table = lc $args_ref->{result};
+  my $terrain = $args_ref->{terrain};
+  my $file_path = qq($base/hyperborean_encounter_tables/terrain/$terrain/$table);
+  my $result = $hub->load_table_file($file_path)->roll_table()->as_block_text;
+  $args_ref->{result} = $result;
+  process_results($args_ref);
+}
+###
+sub roll {
     my @parts = split(/\s+/, $result);
     my $roll = $hub->roll_dice($parts[0]);
     $parts[0] = $roll;
     $result = join(' ', @parts);
-  }
-  elsif ( $result =~ m/hunting party/i) {
-    my $table = q(hunting_party);
-    my $file_path = qq($base/hyperborean_encounter_tables/appendix_tables/$table);
-    my $result = $hub->load_table_file($file_path)->roll_table()->as_block_text;
-    say $result;
-  }
+}
+###
+sub hunting_party {
+  my ($args_ref) = @_;
+  my $file_path = qq($base/hyperborean_encounter_tables/appendix_tables/hunting_table);
+  my $result = $hub->load_table_file($file_path)->roll_table()->as_block_text;
   say $result;
 }
-
