@@ -1,0 +1,7 @@
+---
+- "qr/[a-z]/"
+  - "plain"
+- "qr/\dd\d/"
+  - "roll" 
+- "qr/hunting party/"
+  - "hunting_party"
