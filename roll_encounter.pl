@@ -64,31 +64,31 @@ sub get_tokens {
   $tokens_ref = YAML::LoadFile($encounter_file);
 }
 ###
+sub create_dispatch_table {
+  for my $regex_token ( $tokens_ref->@* ) {
+    my $regex = $regex_token->[0];
+    my $token = $regex_token->[1];
+    say qq($regex -> $token);
+    $dispatch->{
+      plain         => get_encounter($letter, $location, $terrain),
+      roll          => ,
+      hunting_party => ,
+      };
+  }
+};
+###
 sub get_encounter {
   my ($letter, $location, $terrain) = @_;
 
-  #my ($opt, $usage) = describe_options(
-    #'%c %o <table>',
-    #[ 'manual|m',     'enter die rolls manually' ],
-    #[ 'debug|d',      'show all die rolling activity' ],
-    #[ 'options|o=s%', 'options to pass to the table' ],
-  #);
-
-  my $hub = Roland::Hub->new({
-    #manual => $opt->manual,
-    #debug  => $opt->debug,
-  });
+  my $hub = Roland::Hub->new();
 
   my $file = $data->{$letter}{$location}{file};
-  #say qq(file: $file);
+
   my $file_path = qq($base/hyperborean_encounter_tables/$file);
 
-  #my $result = $hub->load_table_file($file_path)->roll_table($opt->options)->as_block_text;
   my $result = $hub->load_table_file($file_path)->roll_table()->as_block_text;
 
-  #say qq(raw result: $result);
-
-  if ( $result =~ m/[a-z]/ ) {
+  if ( $result =~ m/\A[a-z]+\Z/ ) {
   }
   else {
     my $table = lc $result;
@@ -111,11 +111,3 @@ sub get_encounter {
   say $result;
 }
 
-
-our $tokens_ref;
-our $dispatch;
-
-sub create_dispatch_table {
-  for my $tokens ( $tokens_ref->@* ) {
-  }
-};
