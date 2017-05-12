@@ -175,6 +175,8 @@ sub npc_party {
 
   my $alignment = alignment($hub, $class_alignment_ref);
   my $all_class_alignment_ref = LoadFile($file);
+
+  say qq($alignment NPC Party);
   get_classes($classed_number, $alignment);
 
 }
@@ -185,9 +187,9 @@ sub get_classes {
   for ( 1 .. $number) {
     my $class = $hub->load_table_file($class_path)->roll_table()->as_block_text;
     $class = check_party_alignment($class, $alignment);
-    say qq(  $class);
+    say qq(    $class);
     my $level = level($hub);
-    say qq($level $alignment $class);
+    say qq(  $level $class);
   }
 }
 ###
