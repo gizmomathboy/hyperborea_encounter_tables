@@ -73,6 +73,7 @@ sub create_dispatch_table {
      'sub_table'     => \&sub_table,
      'roll'          => \&roll,
      'hunting_party' => \&hunting_party,
+     'plain'         => \&plain,
    };
 }
 ###
@@ -91,7 +92,7 @@ sub get_encounter {
 
   my $result = $hub->load_table_file($file_path)->roll_table()->as_block_text;
 
-  say qq(get_encounter result: $result);
+  #say qq(get_encounter result: $result);
 
   $args_ref->{result} = $result;
   $args_ref->{hub}    = $hub;
@@ -102,7 +103,10 @@ sub get_encounter {
 sub process_results {
   my ($args_ref) = @_;
 
+  #say q(in process_results);
+
   my $result = $args_ref->{result};
+  #say qq(  incoming result: $result);
 
   for my $regex_token ( $tokens_ref->@* ) {
     my $regex = qr/$regex_token->[0]/;
@@ -115,34 +119,39 @@ sub process_results {
       last;
     }
   }
-  say qq(no matches: $result);
 }
 ###
 sub sub_table   {
   my ($args_ref) = @_;
 
-  say qq(  in sub_table);
+  #say qq(  in sub_table);
 
   my $table   = lc $args_ref->{result};
   my $terrain = $args_ref->{terrain};
+  my $result  = $args_ref->{result};
   my $hub     = $args_ref->{hub};
 
-  say qq(    table: $table, terrain: $terrain);
+  #say qq(    table: $table, terrain: $terrain);
+  #say qq(      incoming result: $result);
 
   my $file_path = qq($base/hyperborean_encounter_tables/terrain/$terrain/$table);
-  my $result = $hub->load_table_file($file_path)->roll_table()->as_block_text;
+  $result = $hub->load_table_file($file_path)->roll_table()->as_block_text;
+
+  #say qq(      outgoing result: $result);
   $args_ref->{result} = $result;
+
+  #say q(next process_results);
   process_results($args_ref);
 }
 ###
 sub roll {
   my ($args_ref ) = @_;
-  say qq(  in roll);
+  #say qq(  in roll);
 
   my $result = $args_ref->{result};
   my $hub    = $args_ref->{hub};
 
-  say qq(    result: $result);
+  #say qq(    result: $result);
 
   my @parts = split(/\s+/, $result);
   my $roll = $hub->roll_dice($parts[0]);
@@ -151,10 +160,8 @@ sub roll {
   say $result;
 }
 ###
-sub hunting_party {
+sub cleric {
   my ($args_ref) = @_;
-  say qq(  in hunting_party);
-  say join(',', keys $args_ref->%*);
 
   my $hub = $args_ref->{hub};
 
@@ -162,4 +169,24 @@ sub hunting_party {
   my $result = $hub->load_table_file($file_path)->roll_table()->as_block_text;
 
   say $result;
+}
+###
+sub hunting_party {
+  my ($args_ref) = @_;
+  #say qq(  in hunting_party);
+  #say join(',', keys $args_ref->%*);
+
+  my $hub = $args_ref->{hub};
+
+  my $file_path = qq($base/hyperborean_encounter_tables/appendix_tables/hunting_table);
+  my $result = $hub->load_table_file($file_path)->roll_table()->as_block_text;
+
+  say $result;
+}
+###
+sub plain {
+  my ($args_ref) = @_;
+
+  #say qq(  in plain);
+  say $args_ref->{result};
 }
