@@ -177,16 +177,27 @@ sub npc_party {
   my $file_path = qq($table_base/appendix_tables/alignment);
   my $alignment = $hub->load_table_file($file_path)->roll_table()->as_block_text;
 
-  say qq($alignment NPC Party);
-  my $levels_aref = get_classes($hub, $classed_number, $alignment);
+  say qq($alignment NPC Party, $total_number members);
+  say qq(   $classed_number NPC's);
+  say qq(   $mercenary_number merc's);
+  my ($levels_aref) = get_classes($hub, $classed_number, $alignment);
 
-  say qq(    $mercenary_number mercs);
+  #say qq(    $mercenary_number mercs);
+  my %merc_list;
   my $mercs_file = qq($base/mercenaries.yaml);
   my $mercs_ref = LoadFile($mercs_file);
 
   for ( 1 .. $mercenary_number ) {
     my $index = int ( rand($classed_number) );
+    my $level = $levels_aref->[$index];
+    $level =~ s/ level//;
+    my $merc = $mercs_ref->{$level};
+    $merc_list{$merc} += 1;
+  }
 
+  for (sort keys %merc_list) {
+    my $number = $merc_list{$_};
+    say qq(    $number $_);
   }
 
 }
