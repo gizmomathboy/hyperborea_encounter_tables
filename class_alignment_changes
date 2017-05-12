@@ -37,7 +37,7 @@ Paladin:
   then: Cataphract
 Priest:
   if: Neutral
-  then: shaman
+  then: Shaman
 Pyromancer:
   if: Lawful
   then: Illusionist
