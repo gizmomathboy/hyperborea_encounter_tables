@@ -12,6 +12,8 @@ use v5.24;
 
 our $base = q(/media/jkline/moredata/jkline/blackevil/dnd/astonishing-swordsmen-and-sorcerors-of-hyperborea/resources/encounter-tables);
 
+our $table_base = qq($base/hyperborean_encounter_tables);
+
 our $data = get_data();
 our $tokens_ref;
 get_tokens();
@@ -89,7 +91,7 @@ sub get_encounter {
 
   my $file = $data->{$letter}{$location}{file};
 
-  my $file_path = qq($base/hyperborean_encounter_tables/$file);
+  my $file_path = qq($table_base/$file);
 
   my $result = $hub->load_table_file($file_path)->roll_table()->as_block_text;
 
@@ -135,7 +137,7 @@ sub sub_table   {
   #say qq(    table: $table, terrain: $terrain);
   #say qq(      incoming result: $result);
 
-  my $file_path = qq($base/hyperborean_encounter_tables/terrain/$terrain/$table);
+  my $file_path = qq($table_base/terrain/$terrain/$table);
   $result = $hub->load_table_file($file_path)->roll_table()->as_block_text;
 
   #say qq(      outgoing result: $result);
@@ -164,12 +166,40 @@ sub roll {
 sub cleric {
   my ($args_ref) = @_;
 
+  my $class_alignment_ref = LoadFile($base/class_alignment_changes);
+  my $cleric_alignment = $class_alignment_ref->{Cleric};
+
   my $hub = $args_ref->{hub};
 
-  my $file_path = qq($base/hyperborean_encounter_tables/appendix_tables/hunting_table);
+  my $alignment = alignment($hub, $class_alignment);
+  my $level     = level($hub);
+
+  say qq($level $alignment Cleric);
+}
+###
+sub alignment {
+  my ($hub, $class_alignment) = @_;
+  my $file_path = qq($table_base/appendix_tables/alignment);
   my $result = $hub->load_table_file($file_path)->roll_table()->as_block_text;
 
-  say $result;
+  if ( exists $class_alignment->{all} ) {
+  }
+  else {
+    my $class_if = $class_alignment->{if};
+    my $regex = qr/$class_if/;
+    if ( $result =~ m/$regex/ ) {
+      alignment($hub, $class_alignment);
+    }
+  }
+
+  return($result);
+}
+###
+sub level {
+  my ($hub) = @_;
+  my $file_path = qq($table_base/appendix_tables/class_level);
+  my $result = $hub->load_table_file($file_path)->roll_table()->as_block_text;
+  return($result);
 }
 ###
 sub hunting_party {
@@ -179,7 +209,7 @@ sub hunting_party {
 
   my $hub = $args_ref->{hub};
 
-  my $file_path = qq($base/hyperborean_encounter_tables/appendix_tables/hunting_table);
+  my $file_path = qq($table_base/appendix_tables/hunting_table);
   my $result = $hub->load_table_file($file_path)->roll_table()->as_block_text;
 
   say $result;
