@@ -1,0 +1,62 @@
+Legerdemainist:
+  if: Lawful Good
+  then: Ranger
+Necromancer:
+  if: Good
+  then: Illusionist
+Bard:
+  if: Lawful
+  then: Illusionist
+Priest:
+  if: Neutral
+  then: shaman
+Monk:
+  all:
+Magician
+  all:
+Assassin:
+  if: Good
+  then: Monk
+Berserker:
+  if: Lawful|Neutral
+  then: Cataphract
+Cataphract
+  all:
+Thief
+  if: Lawful Good
+  then: Ranger
+Fighter
+  all:
+Fighter
+  all:
+Barbarian:
+  if: Lawful|Neutral
+  then: Cataphract
+Scout:
+  if: Lawful Good
+  then: Ranger
+Cleric:
+  if: Neutral
+  then: Druid
+Ranger:
+  if: Evil
+  then: Warlock
+Shaman:
+  if: Lawful
+  then: Priest
+Druid:
+  if: Lawful|Evil
+  then: Priest
+Witch:
+  if: Lawful
+  then: Illusionist
+Warlock
+  all:
+Illusionist
+  all:
+Pyromancer:
+  if: Lawful
+  then: Illusionist
+Paladin:
+  if: Chaotic|Neutral|Evil
+  then: Cataphract
