@@ -47,8 +47,13 @@ else {
 
 my $number = prompt 'Select number of encounters:  ', -num;
 
+#sprintf("%08d", $number)
+my $num = length $number;
+our $buf = q( )x$num;
+our $spc = q(   );
 for ( 1 .. $number ) {
-  print "$_ : ";
+  my $num = sprintf("% 2s", $_);
+  print "$num : ";
   get_encounter( { letter   => $letter, 
                    location => $location, 
                    terrain  => $terrain,
@@ -178,8 +183,8 @@ sub npc_party {
   my $alignment = $hub->load_table_file($file_path)->roll_table()->as_block_text;
 
   say qq($alignment NPC Party, $total_number members);
-  say qq(   $classed_number NPC's);
-  say qq(   $mercenary_number merc's);
+  #say qq($buf$spc$classed_number NPC's);
+  #say qq($buf$spc$mercenary_number merc's);
   my ($levels_aref) = get_classes($hub, $classed_number, $alignment);
 
   #say qq(    $mercenary_number mercs);
@@ -197,7 +202,7 @@ sub npc_party {
 
   for (sort keys %merc_list) {
     my $number = $merc_list{$_};
-    say qq(    $number $_);
+    say qq($buf$spc$number $_);
   }
 
 }
@@ -210,7 +215,7 @@ sub get_classes {
     my $class = $hub->load_table_file($class_path)->roll_table()->as_block_text;
     $class = check_party_alignment($class, $alignment);
     my $level = level($hub);
-    say qq(    $level $class);
+    say qq($buf$spc$level $class);
     push (@levels, $level);
   }
   return(\@levels);
