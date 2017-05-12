@@ -73,11 +73,12 @@ sub get_tokens {
 sub create_dispatch_table {
   #say q(create_dispatch_table);
    $dispatch = {
-     'sub_table'     => \&sub_table,
-     'roll'          => \&roll,
-     'class'        => \&class,
+     'class'         => \&class,
      'hunting_party' => \&hunting_party,
+     'npc_party'     => \&npc_party,
      'plain'         => \&plain,
+     'roll'          => \&roll,
+     'sub_table'     => \&sub_table,
    };
 }
 ###
@@ -173,16 +174,16 @@ sub npc_party {
   my $classed_number = $hub->roll_dice('2d3');
   my $mercenary_number = $total_number - $classed_number;
 
-  my $alignment = alignment($hub, $class_alignment_ref);
-  my $all_class_alignment_ref = LoadFile($file);
+  my $file_path = qq($table_base/appendix_tables/alignment);
+  my $alignment = $hub->load_table_file($file_path)->roll_table()->as_block_text;
 
   say qq($alignment NPC Party);
-  get_classes($classed_number, $alignment);
+  get_classes($hub, $classed_number, $alignment);
 
 }
 ###
 sub get_classes {
-  my ($number, $alignment) = @_;
+  my ($hub, $number, $alignment) = @_;
   my $class_path = qq($table_base/appendix_tables/class);
   for ( 1 .. $number) {
     my $class = $hub->load_table_file($class_path)->roll_table()->as_block_text;
@@ -195,16 +196,24 @@ sub get_classes {
 ###
 sub check_party_alignment {
   my ($class, $alignment) = @_;
-  my $all_class_alignment_ref = LoadFile($file);
-  my $class_alignment = $all_class_alignment_ref->{$class};
 
-  if ( exists $class_alignment->{all} ) {
+  say q(in check_party_alignment);
+
+  my $file = qq($base/class_alignment_changes);
+  my $all_class_alignment_ref = LoadFile($file);
+  my $class_alignment_ref = $all_class_alignment_ref->{$class};
+
+  if ( exists $class_alignment_ref->{all} ) {
   }
   else {
-    my $class_if = $class_alignment->{if};
+    my $class_if = $class_alignment_ref->{if};
+    say qq(  class_if: '$class_if');
     my $regex = qr/$class_if/;
-    if ( $result =~ m/$regex/ ) {
-      $class = $class_alignment->{then};
+    say qq(  regex '$regex');
+    if ( $alignment =~ m/$regex/ ) {
+      my $new_class = $class_alignment_ref->{then};
+      say qq(    changing class: $class -> $new_class);
+      $class = $new_class;
     }
   }
   return($class);
@@ -230,17 +239,18 @@ sub class {
 }
 ###
 sub alignment {
-  my ($hub, $class_alignment) = @_;
+  my ($hub, $class_alignment_ref) = @_;
+
   my $file_path = qq($table_base/appendix_tables/alignment);
   my $result = $hub->load_table_file($file_path)->roll_table()->as_block_text;
 
-  if ( exists $class_alignment->{all} ) {
+  if ( exists $class_alignment_ref->{all} ) {
   }
   else {
-    my $class_if = $class_alignment->{if};
+    my $class_if = $class_alignment_ref->{if};
     my $regex = qr/$class_if/;
     if ( $result =~ m/$regex/ ) {
-      alignment($hub, $class_alignment);
+      $result = alignment($hub, $class_alignment_ref);
     }
   }
 
