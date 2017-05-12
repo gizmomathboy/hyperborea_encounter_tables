@@ -48,6 +48,7 @@ else {
 my $number = prompt 'Select number of encounters:  ', -num;
 
 for ( 1 .. $number ) {
+  print "$_ : ";
   get_encounter( { letter   => $letter, 
                    location => $location, 
                    terrain  => $terrain,
@@ -163,10 +164,54 @@ sub roll {
   say $result;
 }
 ###
+sub npc_party {
+  my ($args_ref) = @_;
+
+  my $hub = $args_ref->{hub};
+  
+  my $total_number = $hub->roll_dice('1d6+6');
+  my $classed_number = $hub->roll_dice('2d3');
+  my $mercenary_number = $total_number - $classed_number;
+
+  my $alignment = alignment($hub, $class_alignment_ref);
+  my $all_class_alignment_ref = LoadFile($file);
+  get_classes($classed_number, $alignment);
+
+}
+###
+sub get_classes {
+  my ($number, $alignment) = @_;
+  my $class_path = qq($table_base/appendix_tables/class);
+  for ( 1 .. $number) {
+    my $class = $hub->load_table_file($class_path)->roll_table()->as_block_text;
+    $class = check_party_alignment($class, $alignment);
+    say qq(  $class);
+    my $level = level($hub);
+    say qq($level $alignment $class);
+  }
+}
+###
+sub check_party_alignment {
+  my ($class, $alignment) = @_;
+  my $all_class_alignment_ref = LoadFile($file);
+  my $class_alignment = $all_class_alignment_ref->{$class};
+
+  if ( exists $class_alignment->{all} ) {
+  }
+  else {
+    my $class_if = $class_alignment->{if};
+    my $regex = qr/$class_if/;
+    if ( $result =~ m/$regex/ ) {
+      $class = $class_alignment->{then};
+    }
+  }
+  return($class);
+}
+###
 sub class {
   my ($args_ref) = @_;
 
-  #say q( class);
+  #say q( in class);
 
   my $class = $args_ref->{result};
 
@@ -179,7 +224,7 @@ sub class {
   my $alignment = alignment($hub, $class_alignment_ref);
   my $level     = level($hub);
 
-  #say qq($level $alignment $class);
+  say qq($level $alignment $class);
 }
 ###
 sub alignment {
