@@ -74,7 +74,7 @@ sub create_dispatch_table {
    $dispatch = {
      'sub_table'     => \&sub_table,
      'roll'          => \&roll,
-     'Cleric'        => \&cleric,
+     'class'        => \&class,
      'hunting_party' => \&hunting_party,
      'plain'         => \&plain,
    };
@@ -163,18 +163,21 @@ sub roll {
   say $result;
 }
 ###
-sub cleric {
+sub class {
   my ($args_ref) = @_;
 
-  my $class_alignment_ref = LoadFile($base/class_alignment_changes);
-  my $cleric_alignment = $class_alignment_ref->{Cleric};
+  my $class = $args_ref->{result};
+
+  my $file = qq($base/class_alignment_changes);
+  my $all_class_alignment_ref = LoadFile($file);
+  my $class_alignment_ref = $all_class_alignment_ref->{$class};
 
   my $hub = $args_ref->{hub};
 
-  my $alignment = alignment($hub, $class_alignment);
+  my $alignment = alignment($hub, $class_alignment_ref);
   my $level     = level($hub);
 
-  say qq($level $alignment Cleric);
+  say qq($level $alignment $class);
 }
 ###
 sub alignment {
