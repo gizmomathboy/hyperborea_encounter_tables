@@ -10,7 +10,7 @@ Bard:
 Berserker:
   if: Lawful|Neutral
   then: Cataphract
-Cataphract
+Cataphract:
   all:
 Cleric:
   if: Neutral
