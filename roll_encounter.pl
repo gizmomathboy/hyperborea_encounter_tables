@@ -178,21 +178,31 @@ sub npc_party {
   my $alignment = $hub->load_table_file($file_path)->roll_table()->as_block_text;
 
   say qq($alignment NPC Party);
-  get_classes($hub, $classed_number, $alignment);
+  my $levels_aref = get_classes($hub, $classed_number, $alignment);
 
   say qq(    $mercenary_number mercs);
+  my $mercs_file = qq($base/mercenaries.yaml);
+  my $mercs_ref = LoadFile($mercs_file);
+
+  for ( 1 .. $mercenary_number ) {
+    my $index = int ( rand($classed_number) );
+
+  }
 
 }
 ###
 sub get_classes {
   my ($hub, $number, $alignment) = @_;
   my $class_path = qq($table_base/appendix_tables/class);
+  my @levels;
   for ( 1 .. $number) {
     my $class = $hub->load_table_file($class_path)->roll_table()->as_block_text;
     $class = check_party_alignment($class, $alignment);
     my $level = level($hub);
     say qq(    $level $class);
+    push (@levels, $level);
   }
+  return(\@levels);
 }
 ###
 sub check_party_alignment {
