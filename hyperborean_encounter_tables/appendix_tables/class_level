@@ -1,10 +1,20 @@
 # hyperborean_encounter_tables/appendix_tables
 # class_level
-- dice: 1d12
+- dice: 3d6
   results:
-    1-3: 1st level
-    4-6: 2
-    7-8: 3
-    9-10: 4
-    11: 1d4+4 th level
-    12: 1d4+8 th level
+    3: 11th level
+    4: 9th level
+    5: 7th level
+    6: 5th level
+    7: 4th level
+    8: 3rd level
+    9: 2nd level
+    10: 1st level
+    11: 1st level
+    12: 2nd level
+    13: 3rd level
+    14: 4th level
+    15: 6th level
+    16: 8th level
+    17: 10th level
+    18: 12th level
