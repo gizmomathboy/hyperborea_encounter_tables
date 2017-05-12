@@ -1,0 +1,9 @@
+# hyperborean_encounter_tables/appendix_tables
+# alignment
+- dice: 1d10
+  results:
+    1-2: Chaotic Good
+    3-4: Chaotic Evil
+    5-8: Neutral
+    9: Lawful Evil
+    10: Lawful Good
