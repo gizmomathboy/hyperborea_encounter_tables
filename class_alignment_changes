@@ -20,12 +20,12 @@ Druid:
   then: Priest
 Fighter:
   all:
-Illusionist
+Illusionist:
   all:
 Legerdemainist:
   if: Lawful Good
   then: Ranger
-Magician
+Magician:
   all:
 Monk:
   all:
@@ -50,10 +50,10 @@ Scout:
 Shaman:
   if: Lawful
   then: Priest
-Thief
+Thief:
   if: Lawful Good
   then: Ranger
-Warlock
+Warlock:
   all:
 Witch:
   if: Lawful
