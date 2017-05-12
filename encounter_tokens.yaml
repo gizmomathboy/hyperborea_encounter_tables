@@ -1,5 +1,5 @@
 - 
-  - "\A[A-Z]+\Z"
+  - "^[A-Z]+$"
   - "sub_table"
 - 
   - "\dd\d"
@@ -7,3 +7,6 @@
 - 
   - "hunting party"
   - "hunting_party"
+- 
+  - "[a-z]"
+  - "plain"
