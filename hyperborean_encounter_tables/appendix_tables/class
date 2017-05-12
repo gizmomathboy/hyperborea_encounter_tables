@@ -1,0 +1,27 @@
+# hyperborean_encounter_tables/appendix_tables
+# class
+- dice: 2d12
+  results:
+    2: Legerdemainist (if party is Lawful Good, ranger instead)
+    3: Necromancer (if party is Good, illusionist instead)
+    4: Bard (if party is Lawful, illusionist instead)
+    5: Priest (if party is Neutral, shaman instead)
+    6: Monk
+    7: Magician
+    8: Assassin (if party is Good, monk instead)
+    9: Berserker (if party is not Chaotic, cataphract instead)
+    10: Cataphract
+    11: Thief (if party is Lawful Good, ranger instead)
+    12: Fighter
+    13: Fighter
+    14: Barbarian (if party is not Chaotic, cataphract instead)
+    15: Scout (if party is Lawful Good, ranger instead)
+    16: Cleric (if party is Neutral, druid instead)
+    17: Ranger (if party is Evil, warlock instead)
+    18: Shaman (if party is Lawful, priest instead)
+    19: Druid (if party is not Neutral, priest instead)
+    20: Witch (if party is Lawful, illusionist instead)
+    21: Warlock
+    22: Illusionist
+    23: Pyromancer (if party is Lawful, illusionist instead)
+    24: Paladin (if party is not Lawful Good, cataphract instead)
