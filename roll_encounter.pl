@@ -180,6 +180,8 @@ sub npc_party {
   say qq($alignment NPC Party);
   get_classes($hub, $classed_number, $alignment);
 
+  say qq(    $mercenary_number mercs);
+
 }
 ###
 sub get_classes {
@@ -188,16 +190,13 @@ sub get_classes {
   for ( 1 .. $number) {
     my $class = $hub->load_table_file($class_path)->roll_table()->as_block_text;
     $class = check_party_alignment($class, $alignment);
-    say qq(    $class);
     my $level = level($hub);
-    say qq(  $level $class);
+    say qq(    $level $class);
   }
 }
 ###
 sub check_party_alignment {
   my ($class, $alignment) = @_;
-
-  say q(in check_party_alignment);
 
   my $file = qq($base/class_alignment_changes);
   my $all_class_alignment_ref = LoadFile($file);
@@ -207,12 +206,10 @@ sub check_party_alignment {
   }
   else {
     my $class_if = $class_alignment_ref->{if};
-    say qq(  class_if: '$class_if');
     my $regex = qr/$class_if/;
-    say qq(  regex '$regex');
+
     if ( $alignment =~ m/$regex/ ) {
       my $new_class = $class_alignment_ref->{then};
-      say qq(    changing class: $class -> $new_class);
       $class = $new_class;
     }
   }
@@ -221,8 +218,6 @@ sub check_party_alignment {
 ###
 sub class {
   my ($args_ref) = @_;
-
-  #say q( in class);
 
   my $class = $args_ref->{result};
 
