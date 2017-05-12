@@ -166,6 +166,8 @@ sub roll {
 sub class {
   my ($args_ref) = @_;
 
+  #say q( class);
+
   my $class = $args_ref->{result};
 
   my $file = qq($base/class_alignment_changes);
@@ -177,7 +179,7 @@ sub class {
   my $alignment = alignment($hub, $class_alignment_ref);
   my $level     = level($hub);
 
-  say qq($level $alignment $class);
+  #say qq($level $alignment $class);
 }
 ###
 sub alignment {
