@@ -72,6 +72,7 @@ sub create_dispatch_table {
    $dispatch = {
      'sub_table'     => \&sub_table,
      'roll'          => \&roll,
+     'Cleric'        => \&cleric,
      'hunting_party' => \&hunting_party,
      'plain'         => \&plain,
    };
