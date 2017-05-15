@@ -1,0 +1,25 @@
+make a module to make it easier to put on web.
+  * what is the minimum need to do a roll?
+    * the "lowest" table is the terrain subtable
+      * mountain->men
+      * location needs associated terrain
+
+can give a call with info like:
+  {
+    terrain   => mountain,
+    sub-table => undead,
+  }
+
+  or
+  {
+    location   => Khromarium,
+    terrain    => city,
+  }
+
+Then a roll on that table can be done
+
+so maybe url route can be:
+
+localhost/TERRAIN/TABLE
+
+
