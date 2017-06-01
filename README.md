@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hyperborea_encounter_tables
-=======
-# hyperborea_encounter_tables
->>>>>>> 22b53a1d7ed142dd4e21891af963ea0e3eaf3fe4
+"Astonishing Swordsmen & Sorcerers of Hyperborea", "AS&SH", and all other North Wind Adventures product names and their respective logos are trademarks of North Wind Adventures, LLC.
