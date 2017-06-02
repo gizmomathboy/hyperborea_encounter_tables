@@ -10,7 +10,7 @@ use Roland::Hub;
 
 use v5.24;
 
-our $base = q(/media/jkline/moredata/jkline/blackevil/dnd/astonishing-swordsmen-and-sorcerors-of-hyperborea/resources/encounter-tables);
+our $base = q(.);
 
 our $table_base = qq($base/hyperborean_encounter_tables);
 
