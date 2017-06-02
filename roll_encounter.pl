@@ -10,6 +10,21 @@ use Roland::Hub;
 
 use v5.24;
 
+=pod
+
+=head1 Description
+
+This script automates the rolling on tables found in Ben Balls'
+Hyperborea Encounter Tables
+
+Thanks to Ben for creating a useful resource and thanks to
+Jeff Talanian for creating such a great game for us to play.
+
+"Astonishing Swordsmen & Sorcerers of Hyperborea", "AS&SH", and all other North Wind Adventures product names and their respective logos are trademarks of North Wind Adventures, LLC.
+
+All of the credit goes to Ben Ball for creating this trove of tables. I just ripped them apart and just automated the rolling a bit.
+=cut
+
 our $base = q(.);
 
 our $table_base = qq($base/hyperborean_encounter_tables);
